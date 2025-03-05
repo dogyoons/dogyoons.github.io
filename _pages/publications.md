@@ -8,30 +8,26 @@ redirect_from:
   - /publications.html
 ---
 
+#{% include base_path %}
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Please check out my [Google Scholar profile](site.author.googlescholar) for 
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+### Preprints
+* High-dimensional sequential change detection
+Robert Malinas, Dogyoon Song, Benjamin D. Robinson and Alfred O. Hero
+
+* Algebraic and statistical properties of the ordinary least squares interpolator
+
+* Community detection in high-dimensional graph ensembles
+
+* On separability of covariance in multiway data analysis
+
+* Deconvolution with unknown error distribution interpreted as blind isotonic regression
+
+* Learning RUMs: Reducing mixture to single component via PCA
+
+
+### Journal Articles
+
+### Conference Proceedings
