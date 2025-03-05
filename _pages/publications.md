@@ -11,12 +11,12 @@ redirect_from:
 
 ## Preprints
 
-* **{High-dimensional sequential change detection}(https://arxiv.org/pdf/2502.05377)**
-Robert Malinas, Dogyoon Song, Benjamin D. Robinson and Alfred O. Hero
+* **[High-dimensional sequential change detection](https://arxiv.org/pdf/2502.05377)**\\
+Robert Malinas, **Dogyoon Song**, Benjamin D. Robinson and Alfred O. Hero\\
 Preprint available online  (v1, February 2025)
 
-* ### Algebraic and statistical properties of the ordinary least squares interpolator
-Dennis Shen⋆, Dogyoon Song⋆, Peng Ding and Jasjeet Sekhon
+* **Algebraic and statistical properties of the ordinary least squares interpolator**\\
+Dennis Shen, **Dogyoon Song**, Peng Ding and Jasjeet Sekhon
 
 * ### Community detection in high-dimensional graph ensembles
 
