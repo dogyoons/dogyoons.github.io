@@ -55,11 +55,11 @@ Statistics Surveys, 2022
 
 * **[On robustness of principal component regression](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1928513)**\\
 Anish Agarwal, Devavrat Shah, Dennis Shen and **Dogyoon Song**\\
-Journal of the American Statistical Association (JASA), 2021; Preliminary conference version presented in NeurIPS 2019
+Journal of the American Statistical Association (JASA), 2021; Preliminary version presented at NeurIPS 2019
 
 * **[Nearest neighbors for matrix estimation interpreted as blind regression for latent variable model](https://ieeexplore.ieee.org/abstract/document/8886428)**\\
 Yihua Li, Devavrat Shah, **Dogyoon Song** and Christina Lee Yu\\
-IEEE Transactions on Information Theory, 2019; Preliminary conference version presented in NeurIPS 2016
+IEEE Transactions on Information Theory, 2019; Preliminary version presented at NeurIPS 2016
 
 
 
@@ -113,6 +113,6 @@ VLSI-DAT 2013
 
 
 ## Ph.D. Thesis
-* **[Addressing missing data and scalable optimization for data-driven decision making](https://dspace.mit.edu/handle/1721.1/139254)**
+* **[Addressing missing data and scalable optimization for data-driven decision making](https://dspace.mit.edu/handle/1721.1/139254)**\\
 Ph.D. Thesis, Massachusetts Institute of Technology, June 2021\\
 Advised by Pablo A. Parrilo and Devavrat Shah
