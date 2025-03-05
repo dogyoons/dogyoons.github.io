@@ -8,7 +8,7 @@ redirect_from:
   - /publications.html
 ---
 
-Publications by categories in reversed chronological order.  
+Publications by categories in reverse chronological order.  
 
 
 ## Preprints
@@ -23,7 +23,7 @@ arXiv preprint  (v2, May 2024)
 
 * **[Community detection in high-dimensional graph ensembles](https://arxiv.org/abs/2312.03900)**\\
 Robert Malinas, **Dogyoon Song**, Alfred O. Hero\\
-arXiv preprint  (v1, December 2023)
+arXiv preprint  (v1, December 2023); presented at the Asilomar Conference 2023
 
 * **[On separability of covariance in multiway data analysis](https://arxiv.org/abs/2302.02415)**\\
 **Dogyoon Song** and Alfred O. Hero\\
