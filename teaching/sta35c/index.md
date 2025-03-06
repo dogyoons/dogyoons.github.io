@@ -13,9 +13,7 @@ permalink: /teaching/sta35c/
 
 
 **Labs**: Run by TA, TBA, email: 
-
 * Section A01: Tuesdays, 10:00 AM - 10:50 AM, TLC 2212
-
 * Section A02: Tuesdays, 11:00 AM - 11:50 AM, TLC 2212
 
 
@@ -24,6 +22,7 @@ permalink: /teaching/sta35c/
 
 **Office hours**:
 * Dogyoon Song: Mondays, 4:00 PM - 5:00 PM, MSB 4220
+
 * TA: TBA
 
 
@@ -62,11 +61,11 @@ A tentative list of topics to be covered include:
 The course will consist of ...
 
 The grade breakdown is:
-* Participation (extra)
-* Labs
-* Homework
-* Midterms
-* Final
+* 10%: Labs
+* 25%: Homework
+* 30%: Midterms
+* 35%: Final
+* 1%: Participation (extra)
 
 
 
