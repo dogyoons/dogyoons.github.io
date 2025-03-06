@@ -1,7 +1,7 @@
 ---
 layout: course
-title: "STA 250 - Theoretical Foundations for Machine Learning, Spring 2025"
-permalink: /teaching/sta250/
+title: "Project (STA 250, Spring 2025)"
+permalink: /teaching/sta250/project/
 ---
 
 ## Course Information
@@ -35,10 +35,10 @@ Topics covered include:
 The course will consist of ...
 
 The grade breakdown is:
-* Homework
-* In-class quizzes
-* [Paper discussion](/teaching/sta250/paper_reading/)
-* [Project](/teaching/sta250/project/)
+* Homework:
+* In-class quizzes:
+* Paper discussion:
+* Project:
 
 
 

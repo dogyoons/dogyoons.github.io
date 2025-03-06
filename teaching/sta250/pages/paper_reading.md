@@ -35,10 +35,10 @@ Topics covered include:
 The course will consist of ...
 
 The grade breakdown is:
-* Homework
-* In-class quizzes
-* [Paper discussion](/teaching/sta250/paper_reading/)
-* [Project](/teaching/sta250/project/)
+* Homework:
+* In-class quizzes:
+* Paper discussion:
+* Project:
 
 
 
