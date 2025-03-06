@@ -37,8 +37,8 @@ The course will consist of ...
 The grade breakdown is:
 * Homework
 * In-class quizzes
-* [Paper discussion](/pages/paper_reading)
-* [Project](/pages/project)
+* [Paper discussion](/teaching/sta250/paper-reading/)
+* [Project](/teaching/sta250/project/)
 
 
 
