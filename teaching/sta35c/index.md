@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: course
 title: "STA 35C - Statistical Data Science III"
 permalink: /teaching/sta35c/
 ---
@@ -46,33 +46,33 @@ with Applications in R, 2nd edition (2021) [Springer].  [link](https://link.spri
 
 Lecture Day | Topics | Slides | Additional references  | HW | Lab | Notes
 --- | --- | --- | --- | --- | --- | --- 
-Mon, Mar 31 | Intro |
-Wed, Apr 2
-Fri, Apr 4
-Mon, Apr 7
-Wed, Apr 9
-Fri, Apr 11
-Mon, Apr 14
-Wed, Apr 16
-Fri, Apr 18
-Mon, Apr 21
-Wed, Apr 23
-Fri, Apr 25 | **Midterm1**
-Mon, Apr 28
-Wed, Apr 30
-Fri, May 2
-Mon, May 5
-Wed, May 7
-Fri, May 9
-Mon, May 12
-Wed, May 14
-Fri, May 16 | **Midterm 2**
-Mon, May 19
-Wed, May 21
-Fri, May 23
-Mon, May 26 | **Memorial day, no class**
-Wed, May 28
-Fri, May 30
-Mon, Jun 2
-Wed, Jun 4
-Fri, Jun 6 | **Final exam**
+Mon, Mar 31 | Intro | ||||
+Wed, Apr 2 ||||||
+Fri, Apr 4 ||||||
+Mon, Apr 7 ||||||
+Wed, Apr 9 ||||||
+Fri, Apr 11 ||||||
+Mon, Apr 14 ||||||
+Wed, Apr 16 ||||||
+Fri, Apr 18 ||||||
+Mon, Apr 21 ||||||
+Wed, Apr 23 ||||||
+Fri, Apr 25 | **Midterm1** |||||
+Mon, Apr 28 ||||||
+Wed, Apr 30 ||||||
+Fri, May 2 ||||||
+Mon, May 5 ||||||
+Wed, May 7 ||||||
+Fri, May 9 ||||||
+Mon, May 12 ||||||
+Wed, May 14 ||||||
+Fri, May 16 | **Midterm 2** |||||
+Mon, May 19 ||||||
+Wed, May 21 ||||||
+Fri, May 23 ||||||
+Mon, May 26 | **Memorial day, no class** |||||
+Wed, May 28 ||||||
+Fri, May 30 ||||||
+Mon, Jun 2 ||||||
+Wed, Jun 4 ||||||
+Fri, Jun 6 | **Final exam** |||||

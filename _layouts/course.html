@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    /* Optional: Write your own CSS here, or link to a custom stylesheet */
+    body {
+      margin: 20px;
+      font-family: sans-serif;
+    }
+    header, footer {
+      display: none; /* Hiding typical site-wide header/footer if you want a clean slate */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- A custom header for the course, or omit it entirely -->
+  <h1>{{ page.title }}</h1>
+
+  <!-- Insert the markdown content -->
+  {{ content }}
+
+</body>
+</html>
