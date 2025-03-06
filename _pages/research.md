@@ -9,14 +9,19 @@ redirect_from:
 ---
 
 
-My research interests broadly lie at the interface of optimization, statistics, and machine learning, with a focus on developing theories and efficient algorithms for data-assisted decision making.  I am especially interested in geometric properties that can explain the outstanding performance of modern machine learning and AI technologies, aiming to enhance the systems utilizing these advancements. Currently, my efforts focus on
+My research interests ㅣie at the interface of optimization, statistics, and machine learning, with a focus on developing theories and efficient algorithms for data-assisted decision making.  I am especially interested in uncovering the geometric principles that govern low-complexity models in high-dimensional settings and exploring how these insights can explain the outstanding performance of modern machine learning and AI technologies, and advance decision-making tasks.
+Currently, my efforts focus on
 
-* Geometry of high-dimensional statistics and learning
-  - Geometry of regularized M-estimation
-  - Utilities and limitations of low-complexity models
+* Geometry of low-complexity models for high-dimensional statistics and learning
+  - Identifying structural patterns and geometric properties in data-driven models
+  - Building efficient computational frameworks for leveraging these structures
+  - Establishing theoretical limits and performance guarantees
 
-* Mechanistic properties of overparameterized ML models
-  - Scaling laws
+* Decision making with high-dimensional data
+  - Designing predictive strategies with noisy or non-Euclidean data
+  - Causal inference with overparameterized models
 
-* Decision making with high-dimensional data \& ML models
-  - Causal inference in high-dimensional settings
+* Machine learning/Deep learning theory
+  - General machine learning theory
+  - Science of deep learning: training dynamics, scaling laws, …
+  - Any topics related to understanding deep learning models

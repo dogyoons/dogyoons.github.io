@@ -22,11 +22,11 @@ repository               : "dogyoons/dogyoons.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dogyoon.jpg"
   name             : "Dogyoon Song"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Statistics"
-  location         : "4220 MSB"
+  location         : "4220 Mathematical Sciences Building"
   employer         : "University of California, Davis"
   uri              : # URL
   email            : "dgsong@ucdavis.edu" 
