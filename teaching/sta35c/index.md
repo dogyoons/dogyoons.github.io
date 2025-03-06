@@ -50,7 +50,7 @@ A tentative list of topics to be covered include:
   - Regression
   - Classification
   - Basic nonparameterics
-* Model evaluation and selection
+* Model assessment, selection, and inference
   - Cross-validation
   - Subset selection and regularization
   - Multiple hypothesis testing
