@@ -46,15 +46,19 @@ with Applications in R, 2nd edition (2021) [Springer].  [link](https://link.spri
 **TBA**
 
 A tentative list of topics to be covered include:
-* Intro to supervised learning
-* Regression
-* Classification
-* Cross-validation
-* Model selection
-* Multiple hypothesis testing
-* Dimension reduction
-* Clustering
-* Nonparameteric smoothing
+* Supervised learning
+  - Intro to supervised learning
+  - Regression
+  - Classification
+  - Beyond linear models
+* Model evaluation and selection
+  - Cross-validation
+  - Subset selection and regularization
+  - Multiple hypothesis testing
+* Unsupervised learning
+  - Dimension reduction
+  - Clustering
+* Basic nonparameterics
 
 The course will consist of ...
 
