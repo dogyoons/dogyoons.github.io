@@ -27,10 +27,15 @@ permalink: /teaching/sta250/
 
 **TBA**
 
-Topics covered include:
-*
-*
-*
+A tentative list of topics to be covered include:
+* Intro to supervised learning
+* Generalization theory
+* Optimization
+* Primer on deep neural networks & overparameterized models
+* Brief introduction to additional topics (if time permits)
+  - [Generative modeling & diffusion models] or [large language models & in-context learning]
+  - Causal inference & double machine learning
+
 
 The course will consist of ...
 
