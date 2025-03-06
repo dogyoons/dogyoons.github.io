@@ -1,11 +1,10 @@
 ---
 layout: course
-title: "STA 35C - Statistical Data Science III"
+title: "STA 35C - Statistical Data Science III, Spring 2025"
 permalink: /teaching/sta35c/
 ---
 
-STA 35C - Statistical Data Science III, Spring 2025
-=======================
+## Course Information
 
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
@@ -41,7 +40,7 @@ with Applications in R, 2nd edition (2021) [Springer].  [link](https://link.spri
 
 
 
-# Tentative Class Schedule
+## Tentative Class Schedule
 
 
 Lecture Day | Topics | Slides | Additional references  | HW | Lab | Notes

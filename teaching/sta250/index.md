@@ -1,11 +1,10 @@
 ---
 layout: course
-title: "STA 250 - Theoretical Foundations for Machine Learning"
+title: "STA 250 - Theoretical Foundations for Machine Learning, Spring 2025"
 permalink: /teaching/sta250/
 ---
 
-STA 250 - Theoretical Foundations for Machine Learning, Spring 2025
-==============
+## Course Information
 
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
@@ -23,7 +22,7 @@ STA 250 - Theoretical Foundations for Machine Learning, Spring 2025
 
 
 
-# Tentative Class Schedule
+## Tentative Class Schedule
 
 
 Lecture Day | Topics | Lecture notes | Additional references  | HW/Project/Reading Group | Other 
