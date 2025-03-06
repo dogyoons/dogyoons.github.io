@@ -4,23 +4,25 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <style>
-    /* Optional: Write your own CSS here, or link to a custom stylesheet */
-    body {
-      margin: 20px;
-      font-family: sans-serif;
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1em 0;
     }
-    header, footer {
-      display: none; /* Hiding typical site-wide header/footer if you want a clean slate */
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    th {
+      background-color: #f3f3f3;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
     }
   </style>
 </head>
 <body>
-
-  <!-- A custom header for the course, or omit it entirely -->
   <h1>{{ page.title }}</h1>
-
-  <!-- Insert the markdown content -->
   {{ content }}
-
 </body>
 </html>
