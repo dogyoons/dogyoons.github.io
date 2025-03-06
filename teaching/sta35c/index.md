@@ -12,7 +12,7 @@ permalink: /teaching/sta35c/
 **Lectures**: Mondays, Wednesdays and Fridays, 12:10 PM - 1:00 PM, WELLMN 26
 
 
-**Labs**: Run by TA, TBD, email: 
+**Labs**: Run by TA, TBA, email: 
 
 * Section A01: Tuesdays, 10:00 AM - 10:50 AM, TLC 2212
 
@@ -37,6 +37,28 @@ permalink: /teaching/sta35c/
 There is one required textbook, which is available online.
 * Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani.  An Introduction to Statistical Learning
 with Applications in R, 2nd edition (2021) [Springer].  [link](https://link.springer.com/book/10.1007/978-1-0716-1418-1)
+
+
+
+
+## Topics/Course Structure/Evaluation
+
+**TBA**
+
+Topics covered include:
+*
+*
+*
+
+The course will consist of ...
+
+The grade breakdown is:
+* Participation (extra)
+* Labs
+* Homework
+* Midterms
+* Final
+
 
 
 

@@ -22,6 +22,27 @@ permalink: /teaching/sta250/
 
 
 
+
+## Topics/Course Structure/Evaluation
+
+**TBA**
+
+Topics covered include:
+*
+*
+*
+
+The course will consist of ...
+
+The grade breakdown is:
+* Homework:
+* In-class quizzes:
+* Paper discussion:
+* Project:
+
+
+
+
 ## Tentative Class Schedule
 
 
