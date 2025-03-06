@@ -50,7 +50,7 @@ A tentative list of topics to be covered include:
   - Intro to supervised learning
   - Regression
   - Classification
-  - Beyond linear models
+  - Basic nonparameterics
 * Model evaluation and selection
   - Cross-validation
   - Subset selection and regularization
@@ -58,7 +58,6 @@ A tentative list of topics to be covered include:
 * Unsupervised learning
   - Dimension reduction
   - Clustering
-* Basic nonparameterics
 
 The course will consist of ...
 
