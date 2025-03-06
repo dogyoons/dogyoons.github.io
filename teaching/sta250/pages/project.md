@@ -1,10 +1,8 @@
 ---
 layout: course
-title: "STA 250 - Theoretical Foundations for Machine Learning, Spring 2025"
+title: "STA 250, Spring 2025 -- Project"
 permalink: /teaching/sta250/project/
 ---
-
-# Project
 
 ## Overview
 
