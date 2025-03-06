@@ -1,3 +1,9 @@
+---
+layout: page
+title: "STA 250 - Theoretical Foundations for Machine Learning"
+permalink: /teaching/sta250/
+---
+
 STA 250 - Theoretical Foundations for Machine Learning, Spring 2025
 ==============
 

@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## UC Davis:
-* STA 035C: Statistical Data Science III (Spring 2025)
-* STA 250: Theoretical Foundations for Machine Learning
+* [STA 035C: Statistical Data Science III](/teaching/sta35c/) (Spring 2025)
+* [STA 250: Theoretical Foundations for Machine Learning](/teaching/sta250/) (Spring 2025)
 
 ## MIT:
 * 6.256 Algebraic Techniques and Semidefinite Optimization (Spring 2019, TA)

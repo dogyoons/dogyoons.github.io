@@ -1,3 +1,9 @@
+---
+layout: page
+title: "STA 35C - Statistical Data Science III"
+permalink: /teaching/sta35c/
+---
+
 STA 35C - Statistical Data Science III, Spring 2025
 =======================
 
