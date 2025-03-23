@@ -12,40 +12,42 @@ permalink: /teaching/sta250/
 **Lectures**: Mondays and Wednesdays, 2:10 PM - 3:50 PM, WELLMN 109
 
 
-**Office hours**: Wednesdays, 4:00 PM - 5:00 PM, MSB 4220
+**Office hours**: Mondays, 4:00 PM - 5:00 PM, or by appointment (MSB 4220)
 
 
-**Syllabus**: TBA
+**Syllabus**: 
 
 
-**Textbooks**: TBA
+**Texts and resources**: We will have no official course textbooks, but you may find the following resources useful.
+* Francis Bach, ["Learning Theory from First Principles,"](https://www.di.ens.fr/~fbach/ltfp_book.pdf) MIT Press
+* Martin Wainwright, ["High-Dimensional Statistics,"](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) Cambridge University Press
+* Stephen Boyd, ["Convex Optimization,"](https://stanford.edu/~boyd/cvxbook/) Cambridge University Press
+* Percy Liang, [Statistical Learning Theory, Stanford Lecture Notes](https://web.stanford.edu/class/cs229t/notes.pdf)
+* Tengyu Ma, [Machine Learning Theory, Stanford Lecture Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tengyuma/cs229m_notes/main/master.pdf)
+* Sanjeev Arora, ["Theory of Deep Learning,"](https://www.cs.princeton.edu/%7Earora/TheoryDL.pdf) Book Draft
+* Matus Telgarsky, Deep Learning Theory, Lecture Notes -- [new version](https://mjt.cs.illinois.edu/dlt/two.pdf) and [old version](https://mjt.cs.illinois.edu/dlt/index.pdf)
 
 
 
-
-## Topics/Course Structure/Evaluation
-
-**TBA**
-
-A tentative list of topics to be covered include:
-* Intro to supervised learning
-* Generalization theory
-* Optimization
-* Primer on deep neural networks & overparameterized models
-* Brief introduction to additional topics (if time permits)
-  - Generative modeling & diffusion models
-  - Large language models & in-context learning
-  - Causal inference & double machine learning
+## Topics
+We will cover the following subjects, which may change due to time constraints or student interests.
+* Intro to supervised learning and generalization theory
+* Optimization theory and methods
+* Deep learning theory
+* Brief survey of additional topics (if time permits)
+  - Causal machine learning
+  - Deep generative models
+  - ...
 
 
-The course will consist of ...
+## Course Structure and Evaluation
+The first ~7 weeks of the course will consist of lectures, in-class quizzes, and in-class reading group discussions. The following ~2 weeks will survey additional topics, and the last week of the coursae will be for presenting final projects.
 
-The grade breakdown is:
-* 30%: Homework
-* 20%: [Paper discussion](/teaching/sta250/paper-reading/)
-* 50%: [Project](/teaching/sta250/project/)
-
-
+The students' performance in this course will be evaluated based on the following:
+* Homework: 30\%
+* In-class mini-quizzes: 5\%
+* [Reading group discussions](/teaching/sta250/paper-reading/): 25\%
+* [Term project](/teaching/sta250/project/): 40\%
 
 
 ## Tentative Class Schedule
