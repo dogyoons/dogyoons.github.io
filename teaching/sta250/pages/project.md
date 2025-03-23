@@ -24,20 +24,17 @@ The project will constitute xx % of your final grade. Your grade on the project 
 ## Milestones
 
 ### Project milestone 1: pre-proposal (mid April)
-* An informal note of at most 1 page, containing
+* An informal note of at most 2 page, containing
   - Initial exploration of topics
   - Brainstorming (mini) research questions
   - Names of group members (1 or 2 people)
 
 
 ### Project milestone 2: proposal (late April)
-* A proposal of at most 2 pages, containing
+* A proposal of at most 5 pages, containing
   - (Brief) summary of literature review
   - Formulation of 2-3 interesting (follow-up) questions to explore
   - Plans for how you will approach (at least one of) these problems
-
-
-### Project milestone 3: mid-term report (late May)
 
 ### Project presentation (early June)
 * Presentations for ~20 minute including Q&A
@@ -47,7 +44,7 @@ The project will constitute xx % of your final grade. Your grade on the project 
   - Handling questions from the audience
 
 ### Project report (early/mid June)
-* Final report in a typical ML conference format (max 9 pages excluding references)
+* Final report in a typical ML conference format (max 9 pages excluding references and appendices)
 * The report will be graded primarily based on
   - Clarity in writing
   - Correctness of results & soundness of arguments
