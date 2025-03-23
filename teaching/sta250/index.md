@@ -68,6 +68,20 @@ All of the coding you will need to do for the course (and tutorials above) can b
 A GPU will not be needed, although using the Google Colab GPU may help if you want to do an experiment-heavy project.
 
 
+### Mini-quzzes
+There will be 3 (or 4) short in-class quizzes ($\leq$ 30 minutes), after each core unit (and possibly after additional topics). 
+Your final quiz score will be the average of your two highest quiz grades. 
+Quizzes are open-book, but you may not use electronic devices or the internet. 
+It is strongly recommended that you review the material regularly after each lecture.
+
+### Reading group discussions
+We will hold approximately three sessions to read and discuss an influential paper related to the course. 
+The format follows a role-based discussion inspired by [Colin Raffel and Alec Jacobson's role-playing student seminars](https://www.cs.toronto.edu/~jacobson/images/role-playing-paper-reading-seminars.pdf), which is also used in [Aditi Raghunathan's course](https://www.cs.cmu.edu/~aditirag/teaching/15-789F24.html).
+
+### Project
+Students will read 2 or more papers on a topic of their choice, then identify and formulate an interesting, concrete follow-up question for future research. 
+Students are expected to make initial strides in solving these questions, via theory or experiments.  
+
 
 ## Tentative Class Schedule
 
