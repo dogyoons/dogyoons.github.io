@@ -69,7 +69,7 @@ A GPU will not be needed, although using the Google Colab GPU may help if you wa
 
 
 ### Mini-quzzes
-There will be 3 (or 4) short in-class quizzes ($\leq$ 30 minutes), after each core unit (and possibly after additional topics). 
+There will be 3 (or 4) short in-class quizzes (<= 30 minutes), after each core unit (and possibly after additional topics). 
 Your final quiz score will be the average of your two highest quiz grades. 
 Quizzes are open-book, but you may not use electronic devices or the internet. 
 It is strongly recommended that you review the material regularly after each lecture.
@@ -92,17 +92,17 @@ Mon, Mar 31 | Intro | | | | |
 Wed, Apr 2 | | | | |
 Mon, Apr 7 | | | | |
 Wed, Apr 9 | | | | |
-Mon, Apr 14 | | | | |
+Mon, Apr 14 | Paper discussion 1 | | | |
 Wed, Apr 16 | | | | |
 Mon, Apr 21 | | | | |
 Wed, Apr 23 | | | | |
 Mon, Apr 28 | | | | |
-Wed, Apr 30 | | | | |
+Wed, Apr 30 | Paper discussion 2  | | | |
 Mon, May 5 | | | | |
 Wed, May 7 | | | | |
 Mon, May 12 | | | | |
 Wed, May 14 | | | | |
-Mon, May 19 | | | | |
+Mon, May 19 | Paper discussion 3 | | | |
 Wed, May 21 | | | | |
 Mon, May 26 | **Memorial day, no class** ||| |
 Wed, May 28 | | | | |
