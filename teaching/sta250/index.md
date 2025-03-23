@@ -76,11 +76,11 @@ It is strongly recommended that you review the material regularly after each lec
 
 ### Reading group discussions
 We will hold approximately three sessions to read and discuss an influential paper related to the course. 
-The format follows a role-based discussion inspired by [Colin Raffel and Alec Jacobson's role-playing student seminars](https://www.cs.toronto.edu/~jacobson/images/role-playing-paper-reading-seminars.pdf), which is also used in [Aditi Raghunathan's course](https://www.cs.cmu.edu/~aditirag/teaching/15-789F24.html).
+The format follows a role-based discussion inspired by [Colin Raffel and Alec Jacobson's role-playing student seminars](https://www.cs.toronto.edu/~jacobson/images/role-playing-paper-reading-seminars.pdf), which is also used in [Aditi Raghunathan's course](https://www.cs.cmu.edu/~aditirag/teaching/15-789F24.html). For more details on the reading group, please see [this page](/teaching/sta250/paper-reading/).
 
 ### Project
 Students will read 2 or more papers on a topic of their choice, then identify and formulate an interesting, concrete follow-up question for future research. 
-Students are expected to make initial strides in solving these questions, via theory or experiments.  
+Students are expected to make initial strides in solving these questions, via theory or experiments. For more details about the project, please see [this page](/teaching/sta250/project/).
 
 
 ## Tentative Class Schedule
