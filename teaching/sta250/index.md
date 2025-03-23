@@ -93,17 +93,17 @@ Wed, Apr 2 | | | | |
 Mon, Apr 7 | | | | |
 Wed, Apr 9 | | | | |
 Mon, Apr 14 | Paper discussion 1 | | | |
-Wed, Apr 16 | | | | |
+Wed, Apr 16 | | | | | Quiz 1 
 Mon, Apr 21 | | | | |
 Wed, Apr 23 | | | | |
 Mon, Apr 28 | | | | |
 Wed, Apr 30 | Paper discussion 2  | | | |
-Mon, May 5 | | | | |
+Mon, May 5 | | | | | Quiz 2
 Wed, May 7 | | | | |
 Mon, May 12 | | | | |
 Wed, May 14 | | | | |
 Mon, May 19 | Paper discussion 3 | | | |
-Wed, May 21 | | | | |
+Wed, May 21 | | | | | Quiz 3
 Mon, May 26 | **Memorial day, no class** ||| |
 Wed, May 28 | | | | |
 Mon, Jun 2 | **(if needed) Final project presentation** ||| |
