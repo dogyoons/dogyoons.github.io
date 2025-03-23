@@ -14,10 +14,9 @@ The goals of projects and expectations
 
 The project will constitute xx % of your final grade. Your grade on the project will be evaluated based on:
 * 5%: Project milestone 1 (pre-proposal)
-* 10%: Project milestone 2 (proposal)
-* 15%: Project milestone 3 (mid-term report)
+* 20%: Project milestone 2 (proposal)
 * 20%: Project presentation
-* 50%: Project report
+* 45%: Project report
 
 
 
