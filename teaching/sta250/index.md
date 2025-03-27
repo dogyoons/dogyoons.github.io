@@ -15,7 +15,13 @@ permalink: /teaching/sta250/
 **Office hours**: Mondays, 4:00 PM - 5:00 PM, or by appointment (MSB 4220)
 
 
-**Syllabus**: 
+**Syllabus**: [link](files/STA250_Spring2025_Syllabus.pdf).
+
+
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/995531).
+
+
+**Piazza**: [link](https://piazza.com/ucdavis/spring2025/sta250sq2025/home).
 
 
 **Texts and resources**: We will have no official course textbooks, but you may find the following resources useful.

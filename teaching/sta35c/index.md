@@ -22,13 +22,16 @@ permalink: /teaching/sta35c/
 **Office hours**:
 * Dogyoon Song: Wednesdays, 4:00 PM - 5:00 PM, or by appointment (MSB 4220)
 
-* Soobin Kim: TBA
+* Soobin Kim: Mondays and Thursdays, 1:00 PM - 2:00 PM (Location: TBA)
 
 
-**Syllabus**: TBA
+**Syllabus**: [link](files/STA035C_Spring2025_Syllabus.pdf).
 
 
-**Piazza**: TBA
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/975009).
+
+
+**Piazza**: [link](https://piazza.com/ucdavis/spring2025/sta035csq2025/home).
 
 
 **Textbooks**: 
