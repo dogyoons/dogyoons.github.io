@@ -17,8 +17,8 @@ The project will constitute xx % of your final grade. Your grade on the project 
 * 15%: Project milestone 2 (proposal)
 * 10%: Project milestone 3 (mid-term meeting)
 * 20%: Project presentation
-* 40%: Project report
-* 10%: Attendance and participation on presentation days
+* 50%: Project report
+* Attendance and participation on presentation days (-5% point per missed day)
 
 
 ## Milestones
@@ -49,7 +49,7 @@ The project will constitute xx % of your final grade. Your grade on the project 
   - Handling questions from the audience
 
 
-### Project report (early/mid June)
+### Project report (Mon, June 9)
 * Final report in a typical ML conference format (max 9 pages excluding references and appendices)
 * The report will be graded primarily based on
   - Clarity in writing

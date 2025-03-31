@@ -17,8 +17,8 @@ The goals of projects and expectations
 
 The paper reading & discussion will constitute xx % of your final grade. Your grade on the project will be evaluated based on:
 * 50%: Presentation
-* 35%: Non-presenter summaries
-* 15%: In-class participation
+* 40%: Non-presenter summaries
+* 10%: In-class participation
 
 
 ### Presenter
