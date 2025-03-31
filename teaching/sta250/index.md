@@ -51,9 +51,8 @@ The first ~7 weeks of the course will consist of lectures, in-class quizzes, and
 
 The students' performance in this course will be evaluated based on the following:
 * Homework: 30%
-* In-class mini-quizzes: 5%
 * [Reading group discussions](/teaching/sta250/paper-reading/): 25%
-* [Term project](/teaching/sta250/project/): 40%
+* [Term project](/teaching/sta250/project/): 45%
 
 ### Homework
 There will be three homework assignments (not including "Homework 0," which you need not submit). 
@@ -61,7 +60,7 @@ There will be three homework assignments (not including "Homework 0," which you 
 If you struggle with completing any of the non-programming part of “Homework 0,” then please note the course may require significant extra effort on your part.
 
 Each of the three graded homeworks will align with each of the first three core units, offering essential practice for internalizing the concepts and methodologies covered in class and for exploring material beyond lectures. 
-A random subset of problems will be graded, and clarity of writing counts alongside correctness. The lowest homework score will be half-weighted in the final calculation.
+A random subset of problems will be graded, and clarity of writing counts alongside correctness. 
 
 You are welcome to collaborate with other students on your homework, but you must list the names of any collaborators at the top of your homework assignment. 
 All final write-ups must be done individually, and submissions must be in {\LaTeX}-produced PDFs via Gradescope (accessible through Canvas).
@@ -72,13 +71,6 @@ If you are unfamiliar with software packages like PyTorch/Jax/TensorFlow, you ma
 
 All of the coding you will need to do for the course (and tutorials above) can be done on your personal laptop or in [Google Colab](ttps://colab.research.google.com/?utm_source=scs-index). 
 A GPU will not be needed, although using the Google Colab GPU may help if you want to do an experiment-heavy project.
-
-
-### Mini-quzzes
-There will be 3 (or 4) short in-class quizzes (<= 30 minutes), after each core unit (and possibly after additional topics). 
-Your final quiz score will be the average of your two highest quiz grades. 
-Quizzes are open-book, but you may not use electronic devices or the internet. 
-It is strongly recommended that you review the material regularly after each lecture.
 
 ### Reading group discussions
 We will hold approximately three sessions to read and discuss an influential paper related to the course. 
