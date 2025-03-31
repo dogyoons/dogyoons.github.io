@@ -86,7 +86,7 @@ Students are expected to make initial strides in solving these questions, via th
 
 Lecture Day | Topics | Lecture notes | Additional references  | HW | Project | Other 
 --- | --- | --- | --- | --- | --- 
-Mon, Mar 31 | Intro | | | | |
+Mon, Mar 31 | Introduction | | | | |
 Wed, Apr 2 | | | | |
 Mon, Apr 7 | | | | |
 Wed, Apr 9 | | | | |
