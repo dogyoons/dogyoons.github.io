@@ -86,7 +86,7 @@ Students are expected to make initial strides in solving these questions, via th
 
 Lecture Day | Topics | Lecture notes | Additional references  | HW | Project | Other 
 --- | --- | --- | --- | --- | --- 
-Mon, Mar 31 | Introduction | | | "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)" | |
+Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA250_Spring2025_Lecture 01.pdf) | Bach, Ch 2 & Ma, Ch 1 | "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)" | |
 Wed, Apr 2 | | | | |
 Mon, Apr 7 | | | | |
 Wed, Apr 9 | | | | |
