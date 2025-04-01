@@ -66,11 +66,11 @@ The students’ performance in this course will be evaluated based on the follow
 
 ## Tentative Class Schedule
 
-* Before the course begins, students should complete the [``Homework 0''](homework/STA035C_Spring2025_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
+* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2025_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
 
 Lecture Day | Topics | Slides | Additional references  | HW | Lab | Notes
 --- | --- | --- | --- | --- | --- | --- 
-Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.pdf) | JWHT, Ch 1 | [``HW 0''](homework/STA035C_Spring2025_Homework0.pdf) | |
+Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Spring2025_Homework0.pdf) | |
 Wed, Apr 2 ||||||
 Fri, Apr 4 ||||||
 Mon, Apr 7 ||||||

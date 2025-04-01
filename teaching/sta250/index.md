@@ -55,7 +55,7 @@ The students' performance in this course will be evaluated based on the followin
 * [Term project](/teaching/sta250/project/): 45%
 
 ### Homework
-There will be three homework assignments (not including "Homework 0," which you need not submit). 
+There will be three homework assignments (not including "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)," which you need not submit). 
 "Homework 0" is meant for self-assessment; no solutions will be provided. 
 If you struggle with completing any of the non-programming part of “Homework 0,” then please note the course may require significant extra effort on your part.
 
@@ -86,7 +86,7 @@ Students are expected to make initial strides in solving these questions, via th
 
 Lecture Day | Topics | Lecture notes | Additional references  | HW | Project | Other 
 --- | --- | --- | --- | --- | --- 
-Mon, Mar 31 | Introduction | | | | |
+Mon, Mar 31 | Introduction | | | "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)" | |
 Wed, Apr 2 | | | | |
 Mon, Apr 7 | | | | |
 Wed, Apr 9 | | | | |
