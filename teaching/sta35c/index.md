@@ -71,7 +71,7 @@ The students’ performance in this course will be evaluated based on the follow
 Lecture Day | Topics | Slides | Additional references  | HW | Lab | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Spring2025_Homework0.pdf) | |
-Wed, Apr 2 ||||||
+Wed, Apr 2 | Probability review | [Lecture 2](lectures/STA035C_Spring2025_Lecture 02.pdf)||||
 Fri, Apr 4 ||||||
 Mon, Apr 7 ||||||
 Wed, Apr 9 ||||||
