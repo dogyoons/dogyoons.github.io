@@ -87,7 +87,7 @@ Students are expected to make initial strides in solving these questions, via th
 Lecture Day | Topics | Lecture notes | Additional references  | HW | Project | Other 
 --- | --- | --- | --- | --- | --- 
 Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA250_Spring2025_Lecture 01.pdf) | Bach, Ch 2 & Ma, Ch 1 | "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)" | |
-Wed, Apr 2 | | | | |
+Wed, Apr 2 | Empirical risk minimization | [Lecture 2](lectures/STA250_Spring2025_Lecture 02.pdf) | Ma, Ch 2, 4.1-4.3 & Bach, Ch 4.1-4.4  | | 
 Mon, Apr 7 | | | | |
 Wed, Apr 9 | | | | |
 Mon, Apr 14 | Paper discussion 1 | | | |
