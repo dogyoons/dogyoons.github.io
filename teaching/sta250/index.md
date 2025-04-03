@@ -26,10 +26,11 @@ permalink: /teaching/sta250/
 
 **Texts and resources**: We will have no official course textbooks, but you may find the following resources useful.
 * Francis Bach, ["Learning Theory from First Principles,"](https://www.di.ens.fr/~fbach/ltfp_book.pdf) MIT Press
-* Martin Wainwright, ["High-Dimensional Statistics,"](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) Cambridge University Press
-* Stephen Boyd, ["Convex Optimization,"](https://stanford.edu/~boyd/cvxbook/) Cambridge University Press
-* Percy Liang, [Statistical Learning Theory, Stanford Lecture Notes](https://web.stanford.edu/class/cs229t/notes.pdf)
 * Tengyu Ma, [Machine Learning Theory, Stanford Lecture Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tengyuma/cs229m_notes/main/master.pdf)
+* Percy Liang, [Statistical Learning Theory, Stanford Lecture Notes](https://web.stanford.edu/class/cs229t/notes.pdf)
+* Stephen Boyd, ["Convex Optimization,"](https://stanford.edu/~boyd/cvxbook/) Cambridge University Press
+* Roman Vershynin, ["High-Dimensional Probability,"](https://www.cambridge.org/core/books/highdimensional-probability/797C466DA29743D2C8213493BD2D2102) Cambridge University Press (also available [here](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html))
+* Martin Wainwright, ["High-Dimensional Statistics,"](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) Cambridge University Press
 * Sanjeev Arora, ["Theory of Deep Learning,"](https://www.cs.princeton.edu/%7Earora/TheoryDL.pdf) Book Draft
 * Matus Telgarsky, Deep Learning Theory, Lecture Notes -- [new version](https://mjt.cs.illinois.edu/dlt/two.pdf) and [old version](https://mjt.cs.illinois.edu/dlt/index.pdf)
 
