@@ -9,7 +9,7 @@ permalink: /teaching/sta250/
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
 
-**Lectures**: Mondays and Wednesdays, 2:10 PM - 3:50 PM, WELLMN 109
+**Lectures**: Mondays and Wednesdays, 2:10 PM - 3:50 PM, Wellman Hall 109
 
 
 **Office hours**: Mondays, 4:00 PM - 5:00 PM, or by appointment (MSB 4220)
