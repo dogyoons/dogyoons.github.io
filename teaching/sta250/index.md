@@ -89,7 +89,7 @@ Lecture Day | Topics | Lecture notes | Additional references  | HW | Project | O
 --- | --- | --- | --- | --- | --- 
 Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA250_Spring2025_Lecture 01.pdf) | Bach, Ch 2 & Ma, Ch 1 | "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)" | |
 Wed, Apr 2 | Empirical risk minimization | [Lecture 2](lectures/STA250_Spring2025_Lecture 02.pdf) | Ma, Ch 2, 4.1-4.3 & Bach, Ch 4.1-4.4  | | 
-Mon, Apr 7 | Rademacher complexity | [Lecture 3](lectures/STA250_Spring2025_Lecture 03.pdf) | Ma, Ch 4.4-4.6, 5.1-5.2 & Bach, Ch 4.5 | |
+Mon, Apr 7 | Rademacher complexity | [Lecture 3](lectures/STA250_Spring2025_Lecture 03.pdf) | Ma, Ch 4.4-4.6, 5.1-5.2 & Bach, Ch 4.5 | [Homework 1](homework/STA250_Spring2025_Homework1.pdf) released | |
 Wed, Apr 9 | | | | |
 Mon, Apr 14 | | | | |
 Wed, Apr 16 | | | | | 
