@@ -73,7 +73,7 @@ Lecture Day | Topics | Slides | Additional references  | HW | Lab | Notes
 Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Spring2025_Homework0.pdf) | |
 Wed, Apr 2 | Probability review | [Lecture 2](lectures/STA035C_Spring2025_Lecture 02.pdf)||||
 Fri, Apr 4 | Probability examples + Statistical learning | [Lecture 3](lectures/STA035C_Spring2025_Lecture 03.pdf)| JWHT, Ch 2.1|||
-Mon, Apr 7 ||||||
+Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_Lecture 04.pdf) | JWHT, Ch 3.1 |||
 Wed, Apr 9 ||||||
 Fri, Apr 11 ||||||
 Mon, Apr 14 ||||||
