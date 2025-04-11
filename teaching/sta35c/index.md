@@ -74,8 +74,8 @@ Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.
 Wed, Apr 2 | Probability review | [Lecture 2](lectures/STA035C_Spring2025_Lecture 02.pdf)||||
 Fri, Apr 4 | Probability examples + Statistical learning | [Lecture 3](lectures/STA035C_Spring2025_Lecture 03.pdf)| JWHT, Ch 2.1|||
 Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_Lecture 04.pdf) | JWHT, Ch 3.1 |||
-Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1| [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 ||
-Fri, Apr 11 ||||||
+Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1 | [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 ||
+Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 |||
 Mon, Apr 14 ||||||
 Wed, Apr 16 ||||||
 Fri, Apr 18 ||||||
