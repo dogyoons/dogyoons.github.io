@@ -9,7 +9,7 @@ permalink: /teaching/sta250/paper-reading/
 We will hold about three sessions to discuss influential papers related to the course (two papers per session). These discussions will follow a role-based discussion format inspired by [Colin Raffel and Alec Jacobson's role-playing student seminars](https://www.cs.toronto.edu/~jacobson/images/role-playing-paper-reading-seminars.pdf), which is also used in [Aditi Raghunathan's course](https://www.cs.cmu.edu/~aditirag/teaching/15-789F24.html). Reading groups are common in machine learning research community for keeping up with new research and discovering fresh research directions.
 
 
-### Format
+## Format
 
 For each session, students will adopt specific “roles”:
 
