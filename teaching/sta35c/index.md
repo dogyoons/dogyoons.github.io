@@ -76,7 +76,7 @@ Fri, Apr 4 | Probability examples + Statistical learning | [Lecture 3](lectures/
 Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_Lecture 04.pdf) | JWHT, Ch 3.1 |||
 Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1 | [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 ||
 Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 |||
-Mon, Apr 14 ||||||
+Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring2025_Lecture 07.pdf) | JWHT, Ch 2.2 |||
 Wed, Apr 16 ||||||
 Fri, Apr 18 ||||||
 Mon, Apr 21 ||||||
