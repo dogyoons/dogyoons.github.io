@@ -21,7 +21,9 @@ permalink: /teaching/sta35c/
 
 **Office hours**:
 * Dogyoon Song: Wednesdays, 4:00 PM - 5:00 PM, or by appointment (MSB 4220)
-* Soobin Kim: Mondays and Thursdays, 1:00 PM - 2:00 PM (Location: TBA)
+* Soobin Kim: 
+  * Mondays, 1:00 PM - 2:00 PM (MSB 1117)
+  * Thursdays, 1:00 PM - 2:00 PM (Academic Surge 2142)
 
 
 **Syllabus**: [link](files/STA035C_Spring2025_Syllabus.pdf)
