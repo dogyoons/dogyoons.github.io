@@ -70,35 +70,35 @@ The students’ performance in this course will be evaluated based on the follow
 
 * Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2025_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
 
-Lecture Day | Topics | Slides | Additional references  | HW | Lab | Notes
+Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Spring2025_Homework0.pdf) | |
-Wed, Apr 2 | Probability review | [Lecture 2](lectures/STA035C_Spring2025_Lecture 02.pdf)||||
-Fri, Apr 4 | Probability examples + Statistical learning | [Lecture 3](lectures/STA035C_Spring2025_Lecture 03.pdf)| JWHT, Ch 2.1|||
-Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_Lecture 04.pdf) | JWHT, Ch 3.1 |||
-Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1 | [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 ||
-Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 |||
-Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring2025_Lecture 07.pdf) | JWHT, Ch 2.2 |||
-Wed, Apr 16 ||||||
-Fri, Apr 18 ||||||
-Mon, Apr 21 ||||||
-Wed, Apr 23 ||||||
-Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** |||||
-Mon, Apr 28 ||||||
-Wed, Apr 30 ||||||
-Fri, May 2 ||||||
-Mon, May 5 ||||||
-Wed, May 7 ||||||
-Fri, May 9 ||||||
-Mon, May 12 ||||||
-Wed, May 14 ||||||
-Fri, May 16 | **Midterm 2  (12:10 - 1:00 PM)** |||||
-Mon, May 19 ||||||
-Wed, May 21 ||||||
-Fri, May 23 ||||||
-Mon, May 26 | **Memorial day, no class** |||||
-Wed, May 28 ||||||
-Fri, May 30 ||||||
-Mon, Jun 2 ||||||
-Wed, Jun 4 ||||||
-Fri, Jun 6 | **Final exam (1:00 - 3:00 PM)** |||||
+Wed, Apr 2 | Probability review | [Lecture 2](lectures/STA035C_Spring2025_Lecture 02.pdf)|||
+Fri, Apr 4 | Probability examples + Statistical learning | [Lecture 3](lectures/STA035C_Spring2025_Lecture 03.pdf)| JWHT, Ch 2.1||
+Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_Lecture 04.pdf) | JWHT, Ch 3.1 ||
+Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1 | [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 |
+Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 ||
+Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring2025_Lecture 07.pdf) | JWHT, Ch 2.2 ||
+Wed, Apr 16 |||||
+Fri, Apr 18 |||||
+Mon, Apr 21 |||||
+Wed, Apr 23 |||||
+Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** ||||
+Mon, Apr 28 |||||
+Wed, Apr 30 |||||
+Fri, May 2 |||||
+Mon, May 5 |||||
+Wed, May 7 |||||
+Fri, May 9 |||||
+Mon, May 12 |||||
+Wed, May 14 |||||
+Fri, May 16 | **Midterm 2  (12:10 - 1:00 PM)** ||||
+Mon, May 19 |||||
+Wed, May 21 |||||
+Fri, May 23 |||||
+Mon, May 26 | **Memorial day, no class** ||||
+Wed, May 28 |||||
+Fri, May 30 |||||
+Mon, Jun 2 |||||
+Wed, Jun 4 |||||
+Fri, Jun 6 | **Final exam (1:00 - 3:00 PM)** ||||
