@@ -91,7 +91,7 @@ Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA250_Spring2025_Lecture 01.p
 Wed, Apr 2 | Empirical risk minimization | [Lecture 2](lectures/STA250_Spring2025_Lecture 02.pdf) | Ma, Ch 2, 4.1-4.3 & Bach, Ch 4.1-4.4  | | 
 Mon, Apr 7 | Rademacher complexity | [Lecture 3](lectures/STA250_Spring2025_Lecture 03.pdf) | Ma, Ch 4.4-4.6, 5.1-5.2 & Bach, Ch 4.5 | [Homework 1](homework/STA250_Spring2025_Homework1.pdf) released | |
 Wed, Apr 9 | Kernel methods | [Lecture 4](lectures/STA250_Spring2025_Lecture 04.pdf) | Liang, Ch 4 & Bach, Ch 7 | |
-Mon, Apr 14 | | | | |
+Mon, Apr 14 | Convex optimization | | Boyd, Ch 2-4 & 9.1-9.3 | |
 Wed, Apr 16 | | | | | 
 Mon, Apr 21 | Paper discussion 1 | | | |
 Wed, Apr 23 | | | | |
