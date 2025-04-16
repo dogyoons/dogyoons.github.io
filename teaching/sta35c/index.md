@@ -79,7 +79,7 @@ Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_
 Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1 | [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 |
 Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 ||
 Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring2025_Lecture 07.pdf) | JWHT, Ch 2.2 ||
-Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Spring2025_Lecture 08.pdf) | JWHT, Ch 4.1-4.3 ||
+Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Spring2025_Lecture 08.pdf) | JWHT, Ch 4.1-4.3 | [Homework 2](homework/STA035C_Spring2025_Homework2.pdf) released; due Tue, April 22 |
 Fri, Apr 18 |||||
 Mon, Apr 21 |||||
 Wed, Apr 23 |||||
