@@ -80,8 +80,8 @@ Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring202
 Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 ||
 Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring2025_Lecture 07.pdf) | JWHT, Ch 2.2 ||
 Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Spring2025_Lecture 08.pdf) | JWHT, Ch 4.1-4.3 | [Homework 2](homework/STA035C_Spring2025_Homework2.pdf) released; due Tue, April 22 |
-Fri, Apr 18 |||||
-Mon, Apr 21 |||||
+Fri, Apr 18 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Spring2025_Lecture 09.pdf) | JWHT, Ch 4.3-4.4 ||
+Mon, Apr 21 | Linear discriminant analysis & Naive Bayes | | JWHT, Ch 4.4 ||
 Wed, Apr 23 |||||
 Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** ||||
 Mon, Apr 28 |||||
