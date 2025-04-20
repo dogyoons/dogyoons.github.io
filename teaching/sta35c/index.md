@@ -83,7 +83,7 @@ Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035
 Fri, Apr 18 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Spring2025_Lecture 09.pdf) | JWHT, Ch 4.3-4.4 ||
 Mon, Apr 21 | Linear discriminant analysis & Naive Bayes | [Lecture 10, draft](lectures/STA035C_Spring2025_Lecture 10.pdf) | JWHT, Ch 4.4 ||
 Wed, Apr 23 |||||
-Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** ||||
+Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** |||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
 Mon, Apr 28 |||||
 Wed, Apr 30 |||||
 Fri, May 2 |||||
