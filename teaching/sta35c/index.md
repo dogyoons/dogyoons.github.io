@@ -82,7 +82,7 @@ Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring20
 Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Spring2025_Lecture 08.pdf) | JWHT, Ch 4.1-4.3 | [Homework 2](homework/STA035C_Spring2025_Homework2.pdf) released; due Tue, April 22 |
 Fri, Apr 18 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Spring2025_Lecture 09.pdf) | JWHT, Ch 4.3-4.4 ||
 Mon, Apr 21 | Recap of Lecture 9 & Linear discriminant analysis | [Lecture 10](lectures/STA035C_Spring2025_Lecture 10.pdf) | JWHT, Ch 4.4 ||
-Wed, Apr 23 |||||
+Wed, Apr 23 | More on generative models & LDA | [Lecture 11](lectures/STA035C_Spring2025_Lecture 11.pdf) |  JWHT, Ch 4.4-4.5 || Extended office hours (4-6pm) for today only
 Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** |||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
 Mon, Apr 28 |||||
 Wed, Apr 30 |||||
