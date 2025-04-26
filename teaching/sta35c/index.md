@@ -83,7 +83,7 @@ Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035
 Fri, Apr 18 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Spring2025_Lecture 09.pdf) | JWHT, Ch 4.3-4.4 ||
 Mon, Apr 21 | Recap of Lecture 9 & Linear discriminant analysis | [Lecture 10](lectures/STA035C_Spring2025_Lecture 10.pdf) | JWHT, Ch 4.4 ||
 Wed, Apr 23 | More on generative models & LDA | [Lecture 11](lectures/STA035C_Spring2025_Lecture 11.pdf) |  JWHT, Ch 4.4-4.5 || Extended office hours (4-6pm) for today only
-Fri, Apr 25 | **Midterm1 (12:10 - 1:00 PM)** |||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
+Fri, Apr 25 | **[Midterm1](exams/midterm/STA_035C_Spring2025_Midterm1.pdf) (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm1_sol.pdf) ||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
 Mon, Apr 28 |||||
 Wed, Apr 30 |||||
 Fri, May 2 |||||
