@@ -85,7 +85,7 @@ Mon, Apr 21 | Recap of Lecture 9 & Linear discriminant analysis | [Lecture 10](l
 Wed, Apr 23 | More on generative models & LDA | [Lecture 11](lectures/STA035C_Spring2025_Lecture 11.pdf) |  JWHT, Ch 4.4-4.5 || Extended office hours (4-6pm) for today only
 Fri, Apr 25 | **[Midterm1](exams/midterm/STA_035C_Spring2025_Midterm1.pdf) (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm1_sol.pdf) ||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
 Mon, Apr 28 | Mid-course review | [Lecture 12](lectures/STA035C_Spring2025_Lecture 12.pdf)|||
-Wed, Apr 30 | Cross-validation || JWHT, Ch 5.1 ||
+Wed, Apr 30 | Cross-validation | [Lecture 13](lectures/STA035C_Spring2025_Lecture 13.pdf) | JWHT, Ch 5.1 ||
 Fri, May 2 | The bootstrap | | JWHT, Ch 5.2 ||
 Mon, May 5 |||||
 Wed, May 7 |||||
