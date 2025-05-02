@@ -86,7 +86,7 @@ Wed, Apr 23 | More on generative models & LDA | [Lecture 11](lectures/STA035C_Sp
 Fri, Apr 25 | **[Midterm1](exams/midterm/STA_035C_Spring2025_Midterm1.pdf) (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm1_sol.pdf) ||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
 Mon, Apr 28 | Mid-course review | [Lecture 12](lectures/STA035C_Spring2025_Lecture 12.pdf)|||
 Wed, Apr 30 | Cross-validation | [Lecture 13](lectures/STA035C_Spring2025_Lecture 13.pdf) | JWHT, Ch 5.1 | [Homework 3](homework/STA035C_Spring2025_Homework3.pdf) released; due Tue, May 6 |
-Fri, May 2 | The bootstrap | | JWHT, Ch 5.2 ||
+Fri, May 2 | k-fold CV & The bootstrap | [Lecture 14](lectures/STA035C_Spring2025_Lecture 14.pdf) | JWHT, Ch 5.2 ||
 Mon, May 5 |||||
 Wed, May 7 |||||
 Fri, May 9 |||||
