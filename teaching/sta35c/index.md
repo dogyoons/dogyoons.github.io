@@ -20,7 +20,8 @@ permalink: /teaching/sta35c/
 
 
 **Office hours**:
-* Dogyoon Song: Wednesdays, 4:00 PM - 5:00 PM, or by appointment (MSB 4220)
+* Dogyoon Song: Wednesdays, 4:30 PM - 5:30 PM, or by appointment (MSB 4220)
+  * Extra office hours on Thursdays 2:30 PM - 3:00 PM (May 1, May 8, May 22, May 29)
 * Soobin Kim: 
   * Mondays, 1:00 PM - 2:00 PM (MSB 1117)
   * Thursdays, 1:00 PM - 2:00 PM (Academic Surge 2142)
