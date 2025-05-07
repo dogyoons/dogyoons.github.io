@@ -89,7 +89,7 @@ Mon, Apr 28 | Mid-course review | [Lecture 12](lectures/STA035C_Spring2025_Lectu
 Wed, Apr 30 | Cross-validation | [Lecture 13](lectures/STA035C_Spring2025_Lecture 13.pdf) | JWHT, Ch 5.1 | [Homework 3](homework/STA035C_Spring2025_Homework3.pdf) released; due Tue, May 6 |
 Fri, May 2 | k-fold CV & The bootstrap | [Lecture 14](lectures/STA035C_Spring2025_Lecture 14.pdf) | JWHT, Ch 5.2 ||
 Mon, May 5 | Subset selection | [Lecture 15](lectures/STA035C_Spring2025_Lecture 15.pdf) | JWHT, Ch 6.1 ||
-Wed, May 7 | Regularization | | JWHT, Ch 6.2 ||
+Wed, May 7 | Regularization | [Lecture 16](lectures/STA035C_Spring2025_Lecture 16.pdf) | JWHT, Ch 6.2 | [Homework 4](homework/STA035C_Spring2025_Homework4.pdf) released; due Tue, May 13 |
 Fri, May 9 |||||
 Mon, May 12 |||||
 Wed, May 14 |||||
