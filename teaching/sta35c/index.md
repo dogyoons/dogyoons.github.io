@@ -92,7 +92,7 @@ Mon, May 5 | Subset selection | [Lecture 15](lectures/STA035C_Spring2025_Lecture
 Wed, May 7 | Regularization | [Lecture 16](lectures/STA035C_Spring2025_Lecture 16.pdf) | JWHT, Ch 6.2 | [Homework 4](homework/STA035C_Spring2025_Homework4.pdf) released; due Tue, May 13 |
 Fri, May 9 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Spring2025_Lecture 17.pdf) | JWHT, Ch 6.2 & 13.1-13.2 ||
 Mon, May 12 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Spring2025_Lecture 18.pdf) | JWHT, Ch 13.2-13.4 ||
-Wed, May 14 | Review for midterm 2 |||| Extended office hours (4-6pm) for today only
+Wed, May 14 | Multiple testing (cont'd) + Review for midterm 2 | [Lecture 19](lectures/STA035C_Spring2025_Lecture 19.pdf) ||| Extended office hours (4-6pm) for today only
 Fri, May 16 | **Midterm 2  (12:10 - 1:00 PM)** |||| [Practice midterm 2](exams/practice/STA035C_Mock_midterm2.pdf) + [sol](exams/practice/STA035C_Mock_midterm2_sol.pdf)
 Mon, May 19 |||||
 Wed, May 21 |||||
