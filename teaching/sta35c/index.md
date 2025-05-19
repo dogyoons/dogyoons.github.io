@@ -94,7 +94,7 @@ Fri, May 9 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/
 Mon, May 12 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Spring2025_Lecture 18.pdf) | JWHT, Ch 13.2-13.4 ||
 Wed, May 14 | Multiple testing (cont'd) + Review for midterm 2 | [Lecture 19](lectures/STA035C_Spring2025_Lecture 19.pdf) ||| Extended office hours (4-6pm) for today only
 Fri, May 16 | **[Midterm 2](exams/midterm/STA_035C_Spring2025_Midterm2.pdf)  (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm2_sol.pdf) ||| [Practice midterm 2](exams/practice/STA035C_Mock_midterm2.pdf) + [sol](exams/practice/STA035C_Mock_midterm2_sol.pdf)
-Mon, May 19 ||||| Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/975009/discussion_topics/1495485)
+Mon, May 19 | Basis functions & Regression splines | [Lecture 20](lectures/STA035C_Spring2025_Lecture 20.pdf) | JWHT, Ch 7.1-7.4 || Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/975009/discussion_topics/1495485)
 Wed, May 21 |||||
 Fri, May 23 |||||
 Mon, May 26 | **Memorial day, no class** ||||
