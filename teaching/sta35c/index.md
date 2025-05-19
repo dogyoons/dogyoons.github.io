@@ -93,7 +93,7 @@ Wed, May 7 | Regularization | [Lecture 16](lectures/STA035C_Spring2025_Lecture 1
 Fri, May 9 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Spring2025_Lecture 17.pdf) | JWHT, Ch 6.2 & 13.1-13.2 ||
 Mon, May 12 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Spring2025_Lecture 18.pdf) | JWHT, Ch 13.2-13.4 ||
 Wed, May 14 | Multiple testing (cont'd) + Review for midterm 2 | [Lecture 19](lectures/STA035C_Spring2025_Lecture 19.pdf) ||| Extended office hours (4-6pm) for today only
-Fri, May 16 | **Midterm 2  (12:10 - 1:00 PM)** |||| [Practice midterm 2](exams/practice/STA035C_Mock_midterm2.pdf) + [sol](exams/practice/STA035C_Mock_midterm2_sol.pdf)
+Fri, May 16 | **[Midterm 2](exams/midterm/STA_035C_Spring2025_Midterm2.pdf)  (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm2_sol.pdf) ||| [Practice midterm 2](exams/practice/STA035C_Mock_midterm2.pdf) + [sol](exams/practice/STA035C_Mock_midterm2_sol.pdf)
 Mon, May 19 |||||
 Wed, May 21 |||||
 Fri, May 23 |||||
