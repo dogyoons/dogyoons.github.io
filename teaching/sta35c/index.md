@@ -98,7 +98,7 @@ Mon, May 19 | Basis functions & Regression splines | [Lecture 20](lectures/STA03
 Wed, May 21 | Regression splines (cont'd) + Smoothing splines | [Lecture 21](lectures/STA035C_Spring2025_Lecture 21.pdf) | JWHT, Ch 7.4-7.5 | [Homework 5](homework/STA035C_Spring2025_Homework5.pdf) released; due Tue, May 27 |
 Fri, May 23 | Smoothing splines (cont'd) + Principal component analysis | [Lecture 22](lectures/STA035C_Spring2025_Lecture 22.pdf) | JWHT, Ch 12.1-12.2 ||
 Mon, May 26 | **Memorial day, no class** ||||
-Wed, May 28 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Spring2025_Lecture 23.pdf) | JWHT, Ch 12.2 ||
+Wed, May 28 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Spring2025_Lecture 23.pdf) | JWHT, Ch 12.2 | [Homework 6](homework/STA035C_Spring2025_Homework6.pdf) released; due Tue, June 3 |
 Fri, May 30 | Clustering: k-means clustering || JWHT, Ch 12.4 ||
 Mon, Jun 2 | Clustering: Hierarchical clustering |  | JWHT, Ch 12.4 ||
 Wed, Jun 4 | Review for final exam ||||
