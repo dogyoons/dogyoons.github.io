@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## UC Davis:
-* [STA 035C: Statistical Data Science III](/teaching/sta35c/spring2025/) (Spring 2026)
+* [STA 035C: Statistical Data Science III](/teaching/sta35c/spring2026/) (Spring 2026)
 * [STA 131A: Introduction to Probability Theory](/teaching/sta131a/spring2026/) (Spring 2026)
 * [STA 035C: Statistical Data Science III](/teaching/sta35c/spring2025/) (Spring 2025)
 * [STA 250: Theoretical Foundations for Machine Learning](/teaching/sta250/spring2025/) (Spring 2025)
