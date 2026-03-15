@@ -1,0 +1,109 @@
+---
+layout: course
+title: "STA 131A - Introduction to Probability Theory, Spring 2026"
+permalink: /teaching/sta131a/spring2026/
+---
+
+## Course Information
+
+**Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
+
+**Teaching Assistant**: TBA
+
+**Lectures**: Mondays, Wednesdays and Fridays, 10:00 AM - 10:50 AM, Wellman Hall 226
+*This is an in-person only class, and lectures will not be recorded.*
+
+**Discussions (Labs)** are run by TA 
+* Section A01: Thursdays, 3:10 PM - 4:00 PM, Hart Hall 1130
+* Section A02: Thursdays, 4:10 PM - 5:00 PM, Wellman Hall 115
+
+
+**Office hours**:
+* Dogyoon Song: Wednesdays, 5:30 PM - 6:30 PM, or by appointment (MSB 4220)
+* TA: TBA
+
+
+**Syllabus**: [link](files/STA035C_Spring2025_Syllabus.pdf)
+
+
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/975009)
+
+
+**Piazza**: [link](https://piazza.com/ucdavis/spring2025/sta035csq2025/home)
+
+
+**Textbooks**: 
+There is one required textbook, whose digital copy is available on Canvas in [Reading List](https://link.springer.com/book/10.1007/978-1-0716-1418-1).
+* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012) [Athena Scientific].
+
+
+
+## Topics
+A tentative list of topics to be covered include:
+* Probability basics
+  - Sample space and probability
+  - Conditional probability and independence
+  - Counting and basic combinatorics
+* Discrete random variables
+  - Probability mass functions (PMFs)
+  - Expectation, variance and moments
+  - Joint PMFs
+  - Conditioning and independence
+* General random variables
+  - Probability density functions (PDFs) and cumulative distribution functions (CDFs)
+  - Some exemplar random variables
+  - Joint PDFs
+  - Conditioning and independence (revisited)
+* Further topics on random variables
+  - Derived distributions
+  - Covariance and correlation
+  - (Laplace) transform and moment generating function
+* Limit theorems
+  - Markov and Chebyshev inequalities
+  - The (weak) law of large numbers
+  - The central limit theorem
+
+## Course Structure and Evaluation
+The students’ performance in this course will be evaluated based on the following:
+* Homework: 40%
+* Midterms: 25%
+* Final exam: 35%
+* Participation: up to 3% extra
+
+
+## Tentative Class Schedule
+
+* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2025_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
+
+Lecture Day | Topics | Slides | Additional references  | HW | Notes
+--- | --- | --- | --- | --- | --- | --- 
+Mon, Mar 31 | Introduction | [Lecture 1](lectures/STA035C_Spring2025_Lecture 01.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Spring2025_Homework0.pdf) | |
+Wed, Apr 2 | Probability review | [Lecture 2](lectures/STA035C_Spring2025_Lecture 02.pdf)|||
+Fri, Apr 4 | Probability examples + Statistical learning | [Lecture 3](lectures/STA035C_Spring2025_Lecture 03.pdf)| JWHT, Ch 2.1||
+Mon, Apr 7 | Simple linear regression | [Lecture 4](lectures/STA035C_Spring2025_Lecture 04.pdf) | JWHT, Ch 3.1 ||
+Wed, Apr 9 | Multiple linear regression | [Lecture 5](lectures/STA035C_Spring2025_Lecture 05.pdf) | JWHT, Ch 3.2 & 7.1 | [Homework 1](homework/STA035C_Spring2025_Homework1.pdf) released; due Tue, April 15 |
+Fri, Apr 11 | Qualitative predictors & pitfalls in linear regression | [Lecture 6](lectures/STA035C_Spring2025_Lecture 06.pdf) | JWHT, Ch 3.3 & 3.5 ||
+Mon, Apr 14 | The bias-variance tradeoff | [Lecture 7](lectures/STA035C_Spring2025_Lecture 07.pdf) | JWHT, Ch 2.2 ||
+Wed, Apr 16 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Spring2025_Lecture 08.pdf) | JWHT, Ch 4.1-4.3 | [Homework 2](homework/STA035C_Spring2025_Homework2.pdf) released; due Tue, April 22 |
+Fri, Apr 18 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Spring2025_Lecture 09.pdf) | JWHT, Ch 4.3-4.4 ||
+Mon, Apr 21 | Recap of Lecture 9 & Linear discriminant analysis | [Lecture 10](lectures/STA035C_Spring2025_Lecture 10.pdf) | JWHT, Ch 4.4 ||
+Wed, Apr 23 | More on generative models & LDA | [Lecture 11](lectures/STA035C_Spring2025_Lecture 11.pdf) |  JWHT, Ch 4.4-4.5 || Extended office hours (4-6pm) for today only
+Fri, Apr 25 | **[Midterm1](exams/midterm/STA_035C_Spring2025_Midterm1.pdf) (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm1_sol.pdf) ||| [Practice midterm 1](exams/practice/STA035C_Mock_midterm1.pdf)
+Mon, Apr 28 | Mid-course review | [Lecture 12](lectures/STA035C_Spring2025_Lecture 12.pdf)|||
+Wed, Apr 30 | Cross-validation | [Lecture 13](lectures/STA035C_Spring2025_Lecture 13.pdf) | JWHT, Ch 5.1 | [Homework 3](homework/STA035C_Spring2025_Homework3.pdf) released; due Tue, May 6 |
+Fri, May 2 | k-fold CV & The bootstrap | [Lecture 14](lectures/STA035C_Spring2025_Lecture 14.pdf) | JWHT, Ch 5.2 ||
+Mon, May 5 | Subset selection | [Lecture 15](lectures/STA035C_Spring2025_Lecture 15.pdf) | JWHT, Ch 6.1 ||
+Wed, May 7 | Regularization | [Lecture 16](lectures/STA035C_Spring2025_Lecture 16.pdf) | JWHT, Ch 6.2 | [Homework 4](homework/STA035C_Spring2025_Homework4.pdf) released; due Tue, May 13 |
+Fri, May 9 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Spring2025_Lecture 17.pdf) | JWHT, Ch 6.2 & 13.1-13.2 ||
+Mon, May 12 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Spring2025_Lecture 18.pdf) | JWHT, Ch 13.2-13.4 ||
+Wed, May 14 | Multiple testing (cont'd) + Review for midterm 2 | [Lecture 19](lectures/STA035C_Spring2025_Lecture 19.pdf) ||| Extended office hours (4-6pm) for today only
+Fri, May 16 | **[Midterm 2](exams/midterm/STA_035C_Spring2025_Midterm2.pdf)  (12:10 - 1:00 PM)** | [Solution](exams/midterm/STA_035C_Spring2025_Midterm2_sol.pdf) ||| [Practice midterm 2](exams/practice/STA035C_Mock_midterm2.pdf) + [sol](exams/practice/STA035C_Mock_midterm2_sol.pdf)
+Mon, May 19 | Basis functions & Regression splines | [Lecture 20](lectures/STA035C_Spring2025_Lecture 20.pdf) | JWHT, Ch 7.1-7.4 || Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/975009/discussion_topics/1495485)
+Wed, May 21 | Regression splines (cont'd) + Smoothing splines | [Lecture 21](lectures/STA035C_Spring2025_Lecture 21.pdf) | JWHT, Ch 7.4-7.5 | [Homework 5](homework/STA035C_Spring2025_Homework5.pdf) released; due Tue, May 27 |
+Fri, May 23 | Smoothing splines (cont'd) + Principal component analysis | [Lecture 22](lectures/STA035C_Spring2025_Lecture 22.pdf) | JWHT, Ch 12.1-12.2 ||
+Mon, May 26 | **Memorial day, no class** ||||
+Wed, May 28 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Spring2025_Lecture 23.pdf) | JWHT, Ch 12.2 | [Homework 6](homework/STA035C_Spring2025_Homework6.pdf) released; due Tue, June 3 |
+Fri, May 30 | Clustering: K-means clustering | [Lecture 24](lectures/STA035C_Spring2025_Lecture 24.pdf) | JWHT, Ch 12.4 ||
+Mon, Jun 2 | Clustering: Hierarchical clustering | [Lecture 25](lectures/STA035C_Spring2025_Lecture 25.pdf) | JWHT, Ch 12.4 ||
+Wed, Jun 4 | Review for final exam & Conclusion | [Lecture 26](lectures/STA035C_Spring2025_Lecture 26.pdf) |||
+Fri, Jun 6 | **[Final exam](exams/final/STA_035C_Spring2025_Final.pdf) (1:00 - 3:00 PM)** | [Solution](exams/final/STA_035C_Spring2025_Final_sol.pdf) ||| [Practice final](exams/practice/STA035C_Practice_final.pdf) + [sol](exams/practice/STA035C_Practice_final_sol.pdf)

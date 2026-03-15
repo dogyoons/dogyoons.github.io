@@ -1,33 +1,29 @@
 ---
 layout: course
-title: "STA 35C - Statistical Data Science III, Spring 2025"
-permalink: /teaching/sta35c/
+title: "STA 35C - Statistical Data Science III, Spring 2026"
+permalink: /teaching/sta35c/spring2026/
 ---
 
 ## Course Information
 
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
-**Teaching Assistant**: Soobin Kim (sbbkim [at] ucdavis [dot] edu)
+**Teaching Assistant**: TBA
 
-**Lectures**: Mondays, Wednesdays and Fridays, 12:10 PM - 1:00 PM, Wellman Hall 26
+**Lectures**: Mondays, Wednesdays and Fridays, 1:10 PM -- 2:00 PM, Wellman Hall 6
 *This is an in-person only class, and lectures will not be recorded.*
 
-**Discussions (Labs)** are run by TA Soobin Kim 
-* Section A01: Tuesdays, 10:00 AM - 10:50 AM, TLC 2212
-* Section A02: Tuesdays, 11:00 AM - 11:50 AM, TLC 2212
-
+**Discussions (Labs)** are run by TA
+* Section A01: Tuesdays, 8:00 AM - 8:50 AM, TLC 2212
+* Section A02: Tuesdays, 9:00 AM - 9:50 AM, TLC 2212
 
 
 **Office hours**:
 * Dogyoon Song: Wednesdays, 4:30 PM - 5:30 PM, or by appointment (MSB 4220)
-  * Extra office hours on Thursdays 2:30 PM - 3:00 PM (May 1, May 8, May 22, May 29)
-* Soobin Kim: 
-  * Mondays, 1:00 PM - 2:00 PM (MSB 1117)
-  * Thursdays, 1:00 PM - 2:00 PM (Academic Surge 2142)
+* TA: TBA
 
 
-**Syllabus**: [link](files/STA035C_Spring2025_Syllabus.pdf)
+**Syllabus**: [link](files/STA035C_Spring2026_Syllabus.pdf)
 
 
 **Canvas**: [link](https://canvas.ucdavis.edu/courses/975009)
@@ -69,7 +65,7 @@ The students’ performance in this course will be evaluated based on the follow
 
 ## Tentative Class Schedule
 
-* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2025_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
+* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2026_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 

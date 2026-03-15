@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "STA 250 - Theoretical Foundations for Machine Learning, Spring 2025"
-permalink: /teaching/sta250/
+permalink: /teaching/sta250/spring2025/
 ---
 
 ## Course Information
@@ -52,8 +52,8 @@ The first ~7 weeks of the course will consist of lectures, in-class quizzes, and
 
 The students' performance in this course will be evaluated based on the following:
 * Homework: 30%
-* [Reading group discussions](/teaching/sta250/paper-reading/): 25%
-* [Term project](/teaching/sta250/project/): 45%
+* [Reading group discussions](/teaching/sta250/spring2025/paper-reading/): 25%
+* [Term project](/teaching/sta250/spring2025/project/): 45%
 
 ### Homework
 There will be three homework assignments (not including "[Homework 0](homework/STA250_Spring2025_Homework0.pdf)," which you need not submit). 
@@ -75,11 +75,11 @@ A GPU will not be needed, although using the Google Colab GPU may help if you wa
 
 ### Reading group discussions
 We will hold approximately three sessions to read and discuss an influential paper related to the course. 
-The format follows a role-based discussion inspired by [Colin Raffel and Alec Jacobson's role-playing student seminars](https://www.cs.toronto.edu/~jacobson/images/role-playing-paper-reading-seminars.pdf), which is also used in [Aditi Raghunathan's course](https://www.cs.cmu.edu/~aditirag/teaching/15-789F24.html). For more details on the reading group, please see [this page](/teaching/sta250/paper-reading/).
+The format follows a role-based discussion inspired by [Colin Raffel and Alec Jacobson's role-playing student seminars](https://www.cs.toronto.edu/~jacobson/images/role-playing-paper-reading-seminars.pdf), which is also used in [Aditi Raghunathan's course](https://www.cs.cmu.edu/~aditirag/teaching/15-789F24.html). For more details on the reading group, please see [this page](/teaching/sta250/spring2025/paper-reading/).
 
 ### Project
 Students will read 2 or more papers on a topic of their choice, then identify and formulate an interesting, concrete follow-up question for future research. 
-Students are expected to make initial strides in solving these questions, via theory or experiments. For more details about the project, please see [this page](/teaching/sta250/project/).
+Students are expected to make initial strides in solving these questions, via theory or experiments. For more details about the project, please see [this page](/teaching/sta250/spring2025/project/).
 
 
 ## Tentative Class Schedule
