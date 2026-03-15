@@ -11,7 +11,7 @@ permalink: /teaching/sta35c/spring2025/
 **Teaching Assistant**: Soobin Kim (sbbkim [at] ucdavis [dot] edu)
 
 **Lectures**: Mondays, Wednesdays and Fridays, 12:10 PM - 1:00 PM, Wellman Hall 26
-*This is an in-person only class, and lectures will not be recorded.*
+* *This is an in-person only class, and lectures will not be recorded.*
 
 **Discussions (Labs)** are run by TA Soobin Kim 
 * Section A01: Tuesdays, 10:00 AM - 10:50 AM, TLC 2212
