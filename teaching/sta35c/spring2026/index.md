@@ -23,13 +23,13 @@ permalink: /teaching/sta35c/spring2026/
 * TA: TBA
 
 
-**Syllabus**: [link](files/STA035C_Spring2026_Syllabus.pdf)
+**Syllabus**: [link](files/Syllabus_STA035C_Spring_2026.pdf)
 
 
-**Canvas**: [link](https://canvas.ucdavis.edu/courses/975009)
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/1066815)
 
 
-**Piazza**: [link](https://piazza.com/ucdavis/spring2025/sta035csq2025/home)
+**Piazza**: [link](https://piazza.com/ucdavis/spring2026/sta035ca01a02sq2026/home)
 
 
 **Textbooks**: 
