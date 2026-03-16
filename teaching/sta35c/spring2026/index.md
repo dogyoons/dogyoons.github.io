@@ -65,7 +65,7 @@ The students’ performance in this course will be evaluated based on the follow
 
 ## Tentative Class Schedule
 
-* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2026_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
+* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Homework0_Spring2026.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
