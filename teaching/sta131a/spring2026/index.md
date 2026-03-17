@@ -23,18 +23,18 @@ permalink: /teaching/sta131a/spring2026/
 * TA: TBA
 
 
-**Syllabus**: [link](files/STA035C_Spring2025_Syllabus.pdf)
+**Syllabus**: [link](files/Syllabus_STA131A_Spring_2026.pdf)
 
 
-**Canvas**: [link](https://canvas.ucdavis.edu/courses/975009)
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/1070031)
 
 
-**Piazza**: [link](https://piazza.com/ucdavis/spring2025/sta035csq2025/home)
+**Piazza**: [link](https://piazza.com/ucdavis/spring2026/sta131aa01a02sq2026/home)
 
 
 **Textbooks**: 
-There is one required textbook, whose digital copy is available on Canvas in [Reading List](https://link.springer.com/book/10.1007/978-1-0716-1418-1).
-* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012) [Athena Scientific].
+There is one required textbook, whose digital copy is available on Canvas in [Reading List](https://canvas.ucdavis.edu/courses/1070031/external_tools/10944).
+* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012), Athena Scientific.
 
 
 
@@ -73,8 +73,6 @@ The students’ performance in this course will be evaluated based on the follow
 
 ## Tentative Class Schedule
 
-* Before the course begins, students should complete the ["Homework 0"](homework/STA035C_Spring2025_Homework0.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
-
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 30 | Introduction ||||
@@ -106,4 +104,5 @@ Wed, May 27 |
 Fri, May 29 | 
 Mon, Jun 1  | 
 Wed, Jun 3  | 
+            |
 Thu, Jun 11  | **[Final exam] (1:00 - 3:00 PM)** 
