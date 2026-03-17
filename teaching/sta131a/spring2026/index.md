@@ -8,7 +8,7 @@ permalink: /teaching/sta131a/spring2026/
 
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
-**Teaching Assistant**: TBA
+**Teaching Assistant**: Wonjun Seo (wseo [at] ucdavis [dot] edu)
 
 **Lectures**: Mondays, Wednesdays and Fridays, 10:00 AM - 10:50 AM, Wellman Hall 226
 * *This is an in-person only class, and lectures will not be recorded.*
@@ -19,8 +19,8 @@ permalink: /teaching/sta131a/spring2026/
 
 
 **Office hours**:
-* Dogyoon Song: Wednesdays, 5:30 PM - 6:30 PM, or by appointment (MSB 4220)
-* TA: TBA
+* Dogyoon Song (Instructor): Wednesdays, 5:30 PM - 6:30 PM, or by appointment (MSB 4220)
+* Wonjun Seo (TA): TBA
 
 
 **Syllabus**: [link](files/Syllabus_STA131A_Spring_2026.pdf)
@@ -105,4 +105,4 @@ Fri, May 29 |
 Mon, Jun 1  | 
 Wed, Jun 3  | 
             |
-Thu, Jun 11  | **[Final exam] (1:00 - 3:00 PM)** 
+Thu, Jun 11  | **Final exam (1:00 - 3:00 PM)** 

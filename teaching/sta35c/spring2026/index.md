@@ -8,7 +8,7 @@ permalink: /teaching/sta35c/spring2026/
 
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
-**Teaching Assistant**: TBA
+**Teaching Assistant**: Yanhao Jin (yahjin [at] ucdavis [dot] edu)
 
 **Lectures**: Mondays, Wednesdays and Fridays, 1:10 PM -- 2:00 PM, Wellman Hall 6
 * *This is an in-person only class, and lectures will not be recorded.*
@@ -19,8 +19,8 @@ permalink: /teaching/sta35c/spring2026/
 
 
 **Office hours**:
-* Dogyoon Song: Wednesdays, 4:30 PM - 5:30 PM, or by appointment (MSB 4220)
-* TA: TBA
+* Dogyoon Song (Instructor): Wednesdays, 4:30 PM - 5:30 PM, or by appointment (MSB 4220)
+* Yanhao Jin (TA): TBA
 
 
 **Syllabus**: [link](files/Syllabus_STA035C_Spring_2026.pdf)
@@ -98,4 +98,4 @@ Wed, May 27 |
 Fri, May 29 | 
 Mon, Jun 1  | 
 Wed, Jun 3  | 
-Fri, Jun 5  | **[Final exam] (1:00 - 3:00 PM)** 
+Fri, Jun 5  | **Final exam (1:00 - 3:00 PM)** 
