@@ -42,18 +42,14 @@ There is one required textbook, whose digital copy is available on Canvas in [Re
 A tentative list of topics to be covered include:
 * Probability basics
   - Sample space and probability
-  - Conditional probability and independence
+  - Set theory basics
   - Counting and basic combinatorics
-* Discrete random variables
-  - Probability mass functions (PMFs)
+* Discrete and continuous random variables
+  - Probability mass functions (PMFs), probability density functions (PDFs) and cumulative distribution functions (CDFs)
   - Expectation, variance and moments
-  - Joint PMFs
-  - Conditioning and independence
-* General random variables
-  - Probability density functions (PDFs) and cumulative distribution functions (CDFs)
   - Some exemplar random variables
-  - Joint PDFs
-  - Conditioning and independence (revisited)
+  - Joint distributions
+  - Conditioning and independence
 * Further topics on random variables
   - Derived distributions
   - Covariance and correlation
