@@ -34,7 +34,7 @@ permalink: /teaching/sta131a/spring2026/
 
 **Textbooks**: 
 There is one required textbook, whose digital copy is available on Canvas in [Reading List](https://canvas.ucdavis.edu/courses/1070031/external_tools/10944).
-* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012), Athena Scientific.
+* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012), [Athena Scientific].
 
 
 
