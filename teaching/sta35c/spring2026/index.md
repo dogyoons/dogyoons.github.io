@@ -14,16 +14,16 @@ permalink: /teaching/sta35c/spring2026/
 * *This is an in-person only class, and lectures will not be recorded.*
 
 **Discussions (Labs)** are run by TA
-* Section A01: Tuesdays, 8:00 AM - 8:50 AM, TLC 2212
-* Section A02: Tuesdays, 9:00 AM - 9:50 AM, TLC 2212
+* Section A01: Tuesdays, 8:00 AM -- 8:50 AM, TLC 2212
+* Section A02: Tuesdays, 9:00 AM -- 9:50 AM, TLC 2212
 
 
 **Office hours**:
-* Dogyoon Song (Instructor): Wednesdays, 4:30 PM - 5:30 PM, or by appointment (MSB 4220)
+* Dogyoon Song (Instructor): Wednesdays, 3:30 PM -- 4:30 PM, or by appointment (MSB 4220)
 * Yanhao Jin (TA): TBA
 
 
-**Syllabus**: [link](files/Syllabus_STA035C_Spring_2026.pdf)
+**Syllabus**: [link](files/STA035C_syllabus_Spring2026.pdf)
 
 
 **Canvas**: [link](https://canvas.ucdavis.edu/courses/1066815)
