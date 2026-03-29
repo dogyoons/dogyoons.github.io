@@ -19,11 +19,11 @@ permalink: /teaching/sta131a/spring2026/
 
 
 **Office hours**:
-* Dogyoon Song (Instructor): Wednesdays, 5:30 PM - 6:30 PM, or by appointment (MSB 4220)
+* Dogyoon Song (Instructor): Wednesdays, 2:30 PM - 3:30 PM, or by appointment (MSB 4220)
 * Wonjun Seo (TA): TBA
 
 
-**Syllabus**: [link](files/Syllabus_STA131A_Spring_2026.pdf)
+**Syllabus**: [link](files/STA131A_syllabus_Spring2026.pdf)
 
 
 **Canvas**: [link](https://canvas.ucdavis.edu/courses/1070031)
