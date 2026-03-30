@@ -73,7 +73,7 @@ The students’ performance in this course will be evaluated based on the follow
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
-Mon, Mar 30 | Introduction ||||
+Mon, Mar 30 | Introduction | [Lecture 1](lectures/STA131A_Lecture01_Spring2026.pdf) | BT, Ch 1.1 & 1.2 | ["HW 0"](homework/STA131A_Homework0_Spring2026.pdf) | |
 Wed, Apr 1  | 
 Fri, Apr 3  | 
 Mon, Apr 6  | 
