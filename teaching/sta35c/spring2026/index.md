@@ -20,7 +20,7 @@ permalink: /teaching/sta35c/spring2026/
 
 **Office hours**:
 * Dogyoon Song (Instructor): Wednesdays, 3:30 PM -- 4:30 PM, or by appointment (MSB 4220)
-* Yanhao Jin (TA): TBA
+* Yanhao Jin (TA): Tuesdays, 12:30 PM -- 2:30 PM (MSB 1143)
 
 
 **Syllabus**: [link](files/STA035C_syllabus_Spring2026.pdf)
