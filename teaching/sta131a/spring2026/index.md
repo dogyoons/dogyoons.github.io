@@ -10,17 +10,17 @@ permalink: /teaching/sta131a/spring2026/
 
 **Teaching Assistant**: Wonjun Seo (wseo [at] ucdavis [dot] edu)
 
-**Lectures**: Mondays, Wednesdays and Fridays, 10:00 AM - 10:50 AM, Wellman Hall 226
+**Lectures**: Mondays, Wednesdays and Fridays, 10:00 AM -- 10:50 AM, Wellman Hall 226
 * *This is an in-person only class, and lectures will not be recorded.*
 
 **Discussions (Labs)** are run by TA 
-* Section A01: Thursdays, 3:10 PM - 4:00 PM, Hart Hall 1130
-* Section A02: Thursdays, 4:10 PM - 5:00 PM, Wellman Hall 115
+* Section A01: Thursdays, 3:10 PM -- 4:00 PM, Hart Hall 1130
+* Section A02: Thursdays, 4:10 PM -- 5:00 PM, Wellman Hall 115
 
 
 **Office hours**:
-* Dogyoon Song (Instructor): Wednesdays, 2:30 PM - 3:30 PM, or by appointment (MSB 4220)
-* Wonjun Seo (TA): TBA
+* Dogyoon Song (Instructor): Wednesdays, 2:30 PM -- 3:30 PM, or by appointment (MSB 4220)
+* Wonjun Seo (TA): Tuesdays, 3:00 PM -- 5:00 PM (MSB 1117)
 
 
 **Syllabus**: [link](files/STA131A_syllabus_Spring2026.pdf)
@@ -74,7 +74,7 @@ The students’ performance in this course will be evaluated based on the follow
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 30 | Introduction | [Lecture 1](lectures/STA131A_Lecture01_Spring2026.pdf) | BT, Ch 1.1 & 1.2 | ["HW 0"](homework/STA131A_Homework0_Spring2026.pdf) | |
-Wed, Apr 1  | 
+Wed, Apr 1  | Set theory and probabilistic models | [Lecture 2](lectures/STA131A_Lecture02_Spring2026.pdf) | BT, Ch 1.1 & 1.2 |  | |
 Fri, Apr 3  | 
 Mon, Apr 6  | 
 Wed, Apr 8  |
