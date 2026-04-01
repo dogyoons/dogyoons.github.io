@@ -74,7 +74,7 @@ The students’ performance in this course will be evaluated based on the follow
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 30 | Introduction | [Lecture 1](lectures/STA131A_Lecture01_Spring2026.pdf) | BT, Ch 1.1 & 1.2 | ["HW 0"](homework/STA131A_Homework0_Spring2026.pdf) | |
-Wed, Apr 1  | Set theory and probabilistic models | [Lecture 2](lectures/STA131A_Lecture02_Spring2026.pdf) | BT, Ch 1.1 & 1.2 |  | |
+Wed, Apr 1  | Set theory and probabilistic models | [Lecture 2](lectures/STA131A_Lecture02_Spring2026.pdf) | BT, Ch 1.1 & 1.2 | [Homework 1](homework/STA131A_Homework1_Spring2026.pdf) posted; due Tue, April 7 | |
 Fri, Apr 3  | 
 Mon, Apr 6  | 
 Wed, Apr 8  |
