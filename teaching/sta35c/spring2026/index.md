@@ -70,7 +70,7 @@ The students’ performance in this course will be evaluated based on the follow
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 30 |  Introduction | [Lecture 1](lectures/STA035C_Lecture01_Spring2026.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Homework0_Spring2026.pdf) | |
-Wed, Apr 1  | 
+Wed, Apr 1  | Probability and conditional probability | [Lecture 2](lectures/STA035C_Lecture02_Spring2026.pdf) |  | | |
 Fri, Apr 3  | 
 Mon, Apr 6  | 
 Wed, Apr 8  |
