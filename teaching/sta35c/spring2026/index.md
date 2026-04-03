@@ -71,7 +71,7 @@ Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- | --- 
 Mon, Mar 30 |  Introduction | [Lecture 1](lectures/STA035C_Lecture01_Spring2026.pdf) | JWHT, Ch 1 | ["HW 0"](homework/STA035C_Homework0_Spring2026.pdf) | |
 Wed, Apr 1  | Probability review: basics and conditional probability | [Lecture 2](lectures/STA035C_Lecture02_Spring2026.pdf) |  | [Homework 1](homework/STA035C_Homework1_Spring2026.pdf) posted; due Tue, April 7 | |
-Fri, Apr 3  | 
+Fri, Apr 3  | Probability review: Bayes' theorem and random variables | [Lecture 3](lectures/STA035C_Lecture03_Spring2026.pdf) | | | |
 Mon, Apr 6  | 
 Wed, Apr 8  |
 Fri, Apr 10 |
