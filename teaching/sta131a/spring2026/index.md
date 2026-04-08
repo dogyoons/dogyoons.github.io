@@ -77,7 +77,7 @@ Mon, Mar 30 | Introduction | [Lecture 1](lectures/STA131A_Lecture01_Spring2026.p
 Wed, Apr 1  | Set theory and probabilistic models | [Lecture 2](lectures/STA131A_Lecture02_Spring2026.pdf) | BT, Ch 1.1 & 1.2 | [Homework 1](homework/STA131A_Homework1_Spring2026.pdf) posted; due Tue, April 7 | |
 Fri, Apr 3  | Conditional probability and Bayes' rule | [Lecture 3](lectures/STA131A_Lecture03_Spring2026.pdf) | BT, Ch 1.3 & 1.4 | | |
 Mon, Apr 6  | Independence | [Lecture 4](lectures/STA131A_Lecture04_Spring2026.pdf) | BT, Ch 1.5 | | |
-Wed, Apr 8  |
+Wed, Apr 8  | Counting | [Lecture 5](lectures/STA131A_Lecture05_Spring2026.pdf) | BT, Ch 1.6 | [Homework 2](homework/STA131A_Homework2_Spring2026.pdf) posted; due Tue, April 14 | |
 Fri, Apr 10 |
 Mon, Apr 13 | 
 Wed, Apr 15 | 
