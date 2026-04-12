@@ -75,7 +75,7 @@ Fri, Apr 3  | Probability review: Bayes' theorem and random variables | [Lecture
 Mon, Apr 6  | Statistical learning | [Lecture 4](lectures/STA035C_Lecture04_Spring2026.pdf) | JWHT, Ch 2.1 | | |
 Wed, Apr 8  | Simple linear regression | [Lecture 5](lectures/STA035C_Lecture05_Spring2026.pdf) | JWHT, Ch 3.1 | [Homework 2](homework/STA035C_Homework2_Spring2026.pdf) posted; due Tue, April 14 | |
 Fri, Apr 10 | Multiple linear regression | [Lecture 6](lectures/STA035C_Lecture06_Spring2026.pdf) | JWHT, Ch 3.2 & 7.1 |  | 
-Mon, Apr 13 | 
+Mon, Apr 13 | Qualitative predictors & pitfalls in linear regression | [Lecture 7](lectures/STA035C_Lecture07_Spring2026.pdf) | JWHT, Ch 3.3 & 3.5 ||
 Wed, Apr 15 | 
 Fri, Apr 17 | 
 Mon, Apr 20 | 
