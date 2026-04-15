@@ -100,7 +100,11 @@ Mon, Jun 1  |
 Wed, Jun 3  | 
 Fri, Jun 5  | **Final exam (1:00 - 3:00 PM)** 
 
-Sample exams from the previous year:
+
+Sample exams from the previous year (Spring 2025):
+
 * [Midterm1](previous_exams/STA_035C_Spring2025_Midterm1.pdf) and [Solution](previous_exams/STA_035C_Spring2025_Midterm1_sol.pdf)
+
 * [Midterm2](previous_exams/STA_035C_Spring2025_Midterm2.pdf) and [Solution](previous_exams/STA_035C_Spring2025_Midterm2_sol.pdf)
+
 * [Final exam](previous_exams/STA_035C_Spring2025_Final.pdf) and [Solution](previous_exams/final/STA_035C_Spring2025_Final_sol.pdf)
