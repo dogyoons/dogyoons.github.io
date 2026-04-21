@@ -83,7 +83,7 @@ Mon, Apr 13 | Expectation, mean and variance | [Lecture 7](lectures/STA131A_Lect
 Wed, Apr 15 | Expectation (cont'd) & Joint PMFs | [Lecture 8](lectures/STA131A_Lecture08_Spring2026.pdf) | BT, Ch 2.5 | [Homework 3](homework/STA131A_Homework3_Spring2026.pdf) posted; due Tue, April 21 | |
 Fri, Apr 17 | Conditioning | [Lecture 9](lectures/STA131A_Lecture09_Spring2026.pdf) | BT, Ch 2.6 |  | 
 Mon, Apr 20 | Independence | [Lecture 10](lectures/STA131A_Lecture10_Spring2026.pdf) | BT, Ch 2.7 |  | 
-Wed, Apr 22 | 
+Wed, Apr 22 | Review for Midterm 1 | [Lecture 11](lectures/STA131A_Lecture11_Spring2026.pdf) |  |  | 
 Fri, Apr 24 | **Midterm1 (in-class)** ||||
 Mon, Apr 27 | 
 Wed, Apr 29 |
