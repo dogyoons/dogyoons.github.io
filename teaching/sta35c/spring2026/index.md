@@ -80,7 +80,7 @@ Wed, Apr 15 | Classification & Logistic regression | [Lecture 8](lectures/STA035
 Fri, Apr 17 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Lecture09_Spring2026.pdf) | JWHT, Ch 4.3-4.4 ||
 Mon, Apr 20 | Generative models & Linear discriminant analysis | [Lecture 10](lectures/STA035C_Lecture10_Spring2026.pdf) |  JWHT, Ch 4.4 ||
 Wed, Apr 22 | More on generative models + Review for Midterm 1 | [Lecture 11](lectures/STA035C_Lecture11_Spring2026.pdf) |  JWHT, Ch 4.4-4.5 ||
-Fri, Apr 24 | **Midterm1 (in-class)** ||||
+Fri, Apr 24 | **[Midterm1](exams/midterm1/STA035C_Midterm1_Spring2026.pdf) (in-class)** | [Solution](exams/midterm1/STA035C_Midterm1_solution_Spring2026.pdf) |||
 Mon, Apr 27 | 
 Wed, Apr 29 |
 Fri, May 1  | 
