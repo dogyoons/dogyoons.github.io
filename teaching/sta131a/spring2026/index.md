@@ -85,7 +85,7 @@ Fri, Apr 17 | Conditioning | [Lecture 9](lectures/STA131A_Lecture09_Spring2026.p
 Mon, Apr 20 | Independence | [Lecture 10](lectures/STA131A_Lecture10_Spring2026.pdf) | BT, Ch 2.7 |  | 
 Wed, Apr 22 | Review for Midterm 1 | [Lecture 11](lectures/STA131A_Lecture11_Spring2026.pdf) |  |  | 
 Fri, Apr 24 | **[Midterm1](exams/midterm1/STA131A_Midterm1_Spring2026.pdf) (in-class)** | [Solution](exams/midterm1/STA131A_Midterm1_solution_Spring2026.pdf) |||
-Mon, Apr 27 | 
+Mon, Apr 27 | Continuous random variables | [Lecture 12](lectures/STA131A_Lecture12_Spring2026.pdf) | BT, Ch 3.1 |  | 
 Wed, Apr 29 |
 Fri, May 1  | 
 Mon, May 4  | 
