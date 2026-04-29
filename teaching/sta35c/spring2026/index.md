@@ -82,7 +82,7 @@ Mon, Apr 20 | Generative models & Linear discriminant analysis | [Lecture 10](le
 Wed, Apr 22 | More on generative models + Review for Midterm 1 | [Lecture 11](lectures/STA035C_Lecture11_Spring2026.pdf) |  JWHT, Ch 4.4-4.5 ||
 Fri, Apr 24 | **[Midterm1](exams/midterm1/STA035C_Midterm1_Spring2026.pdf) (in-class)** | [Solution](exams/midterm1/STA035C_Midterm1_solution_Spring2026.pdf) |||
 Mon, Apr 27 | The bias-variance tradeoff | [Lecture 12](lectures/STA035C_Lecture12_Spring2026.pdf) | JWHT, Ch 2.2 ||
-Wed, Apr 29 |
+Wed, Apr 29 | Cross-validation | [Lecture 13](lectures/STA035C_Lecture13_Spring2026.pdf) | JWHT, Ch 5.1 | |
 Fri, May 1  | 
 Mon, May 4  | 
 Wed, May 6  | 
