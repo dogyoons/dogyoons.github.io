@@ -88,7 +88,7 @@ Fri, Apr 24 | **[Midterm1](exams/midterm1/STA131A_Midterm1_Spring2026.pdf) (in-c
 Mon, Apr 27 | Continuous random variables | [Lecture 12](lectures/STA131A_Lecture12_Spring2026.pdf) | BT, Ch 3.1 |  | 
 Wed, Apr 29 | Cumulative distribution functions | [Lecture 13](lectures/STA131A_Lecture13_Spring2026.pdf) | BT, Ch 3.2 | [Homework 4](homework/STA131A_Homework4_Spring2026.pdf) posted; due Tue, May 5 | |
 Fri, May 1  | Normal random variables | [Lecture 14](lectures/STA131A_Lecture14_Spring2026.pdf) | BT, Ch 3.3 | | |
-Mon, May 4  | Joint PDFs of multiple random variables  | [Lecture 15](lectures/STA131A_Lecture15_Spring2026.pdf) | BT, Ch 3.4 | | |
+Mon, May 4  | Joint PDFs of multiple random variables  | [Lecture 15](lectures/STA131A_Lecture15_Spring2026.pdf) | BT, Ch 3.4 | | | Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/1070031/discussion_topics/1657415)
 Wed, May 6  | 
 Fri, May 8  | 
 Mon, May 11 | 

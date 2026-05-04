@@ -84,7 +84,7 @@ Fri, Apr 24 | **[Midterm1](exams/midterm1/STA035C_Midterm1_Spring2026.pdf) (in-c
 Mon, Apr 27 | The bias-variance tradeoff | [Lecture 12](lectures/STA035C_Lecture12_Spring2026.pdf) | JWHT, Ch 2.2 ||
 Wed, Apr 29 | Cross-validation | [Lecture 13](lectures/STA035C_Lecture13_Spring2026.pdf) | JWHT, Ch 5.1 | [Homework 4](homework/STA035C_Homework4_Spring2026.pdf) posted; due Tue, May 5 | |
 Fri, May 1  | k-fold CV & The bootstrap | [Lecture 14](lectures/STA035C_Lecture14_Spring2026.pdf) | JWHT, Ch 5.2 ||
-Mon, May 4  | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Spring2026.pdf) | JWHT, Ch 6.1 ||
+Mon, May 4  | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Spring2026.pdf) | JWHT, Ch 6.1 || Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/1066815/discussion_topics/1657416)
 Wed, May 6  | 
 Fri, May 8  | 
 Mon, May 11 | 
