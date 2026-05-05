@@ -89,7 +89,7 @@ Mon, Apr 27 | Continuous random variables | [Lecture 12](lectures/STA131A_Lectur
 Wed, Apr 29 | Cumulative distribution functions | [Lecture 13](lectures/STA131A_Lecture13_Spring2026.pdf) | BT, Ch 3.2 | [Homework 4](homework/STA131A_Homework4_Spring2026.pdf) posted; due Tue, May 5 | |
 Fri, May 1  | Normal random variables | [Lecture 14](lectures/STA131A_Lecture14_Spring2026.pdf) | BT, Ch 3.3 | | |
 Mon, May 4  | Joint PDFs of multiple random variables  | [Lecture 15](lectures/STA131A_Lecture15_Spring2026.pdf) | BT, Ch 3.4 | | | Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/1070031/discussion_topics/1657415)
-Wed, May 6  | Conditioniong continuous random variables  | [Lecture 16](lectures/STA131A_Lecture16_Spring2026.pdf) | BT, Ch 3.5 | | |
+Wed, May 6  | Conditioniong continuous random variables  | [Lecture 16](lectures/STA131A_Lecture16_Spring2026.pdf) | BT, Ch 3.5 | [Homework 5](homework/STA131A_Homework5_Spring2026.pdf) posted; due Tue, May 12 | |
 Fri, May 8  | 
 Mon, May 11 | 
 Wed, May 13 | 
