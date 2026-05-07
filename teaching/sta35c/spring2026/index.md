@@ -104,3 +104,7 @@ Sample exams from the previous year (Spring 2025):
 * [Midterm1](previous_exams/STA_035C_Spring2025_Midterm1.pdf) and [Solution](previous_exams/STA_035C_Spring2025_Midterm1_sol.pdf)
 * [Midterm2](previous_exams/STA_035C_Spring2025_Midterm2.pdf) and [Solution](previous_exams/STA_035C_Spring2025_Midterm2_sol.pdf)
 * [Final exam](previous_exams/STA_035C_Spring2025_Final.pdf) and [Solution](previous_exams/final/STA_035C_Spring2025_Final_sol.pdf)
+
+Additional mock exams for practice:
+* [Midterm2](previous_exams/STA035C_Mock_midterm2.pdf) and [Solution](previous_exams/STA035C_Mock_midterm2_sol.pdf)
+* [Final exam](previous_exams/STA035C_Practice_final.pdf) and [Solution](previous_exams/STA035C_Practice_final_sol.pdf)
