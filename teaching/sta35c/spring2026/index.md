@@ -87,7 +87,7 @@ Fri, May 1  | k-fold CV & The bootstrap | [Lecture 14](lectures/STA035C_Lecture1
 Mon, May 4  | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Spring2026.pdf) | JWHT, Ch 6.1 || Remote lecture; see [Canvas announcement](https://canvas.ucdavis.edu/courses/1066815/discussion_topics/1657416)
 Wed, May 6  | Regularization | [Lecture 16](lectures/STA035C_Lecture16_Spring2026.pdf) | JWHT, Ch 6.2 | [Homework 5](homework/STA035C_Homework5_Spring2026.pdf) posted; due Tue, May 12 | |
 Fri, May 8  | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Lecture17_Spring2026.pdf) | JWHT, Ch 6.2 & 13.1-13.2 ||
-Mon, May 11 | 
+Mon, May 11 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Lecture18_Spring2026.pdf) | JWHT, Ch 13.2-13.4 ||
 Wed, May 13 | 
 Fri, May 15 | **Midterm 2 (in-class)**  ||||
 Mon, May 18 | 
