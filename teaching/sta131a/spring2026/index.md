@@ -92,7 +92,7 @@ Mon, May 4  | Joint PDFs of multiple random variables  | [Lecture 15](lectures/S
 Wed, May 6  | Conditioniong continuous random variables  | [Lecture 16](lectures/STA131A_Lecture16_Spring2026.pdf) | BT, Ch 3.5 | [Homework 5](homework/STA131A_Homework5_Spring2026.pdf) posted; due Tue, May 12 | |
 Fri, May 8  | More topics on conditioniong  | [Lecture 17](lectures/STA131A_Lecture17_Spring2026.pdf) | BT, Ch 3.6 & 4.3 | | |
 Mon, May 11 | Derived distributions  | [Lecture 18](lectures/STA131A_Lecture18_Spring2026.pdf) | BT, Ch 4.1 | | |
-Wed, May 13 | 
+Wed, May 13 | Derived distributions (cont'd) & Review for Midterm 2   | [Lecture 19](lectures/STA131A_Lecture19_Spring2026.pdf) | BT, Ch 4.1 | | |
 Fri, May 15 | **Midterm 2 (in-class)**  ||||
 Mon, May 18 | 
 Wed, May 20 | 
