@@ -88,7 +88,7 @@ Mon, May 4  | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Spring2
 Wed, May 6  | Regularization | [Lecture 16](lectures/STA035C_Lecture16_Spring2026.pdf) | JWHT, Ch 6.2 | [Homework 5](homework/STA035C_Homework5_Spring2026.pdf) posted; due Tue, May 12 | |
 Fri, May 8  | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Lecture17_Spring2026.pdf) | JWHT, Ch 6.2 & 13.1-13.2 ||
 Mon, May 11 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Lecture18_Spring2026.pdf) | JWHT, Ch 13.2-13.4 ||
-Wed, May 13 | 
+Wed, May 13 | Review for Midterm 2  | [Lecture 19](lectures/STA035C_Lecture19_Spring2026.pdf) | | |
 Fri, May 15 | **Midterm 2 (in-class)**  ||||
 Mon, May 18 | 
 Wed, May 20 | 
