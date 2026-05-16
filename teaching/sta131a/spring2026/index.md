@@ -93,7 +93,7 @@ Wed, May 6  | Conditioniong continuous random variables  | [Lecture 16](lectures
 Fri, May 8  | More topics on conditioniong  | [Lecture 17](lectures/STA131A_Lecture17_Spring2026.pdf) | BT, Ch 3.6 & 4.3 | | |
 Mon, May 11 | Derived distributions  | [Lecture 18](lectures/STA131A_Lecture18_Spring2026.pdf) | BT, Ch 4.1 | | |
 Wed, May 13 | Derived distributions (cont'd) & Review for Midterm 2   | [Lecture 19](lectures/STA131A_Lecture19_Spring2026.pdf) | BT, Ch 4.1 | | |
-Fri, May 15 | **Midterm 2 (in-class)**  ||||
+Fri, May 15 | **[Midterm2](exams/midterm2/STA131A_Midterm2_Spring2026.pdf) (in-class)** | [Solution](exams/midterm2/STA131A_Midterm2_solution_Spring2026.pdf) |||
 Mon, May 18 | 
 Wed, May 20 | 
 Fri, May 22 | 
