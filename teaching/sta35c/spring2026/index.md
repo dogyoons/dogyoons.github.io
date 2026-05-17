@@ -90,7 +90,7 @@ Fri, May 8  | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures
 Mon, May 11 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Lecture18_Spring2026.pdf) | JWHT, Ch 13.2-13.4 ||
 Wed, May 13 | Review for Midterm 2  | [Lecture 19](lectures/STA035C_Lecture19_Spring2026.pdf) | | |
 Fri, May 15 | **[Midterm2](exams/midterm2/STA035C_Midterm2_Spring2026.pdf) (in-class)** | [Solution](exams/midterm2/STA035C_Midterm2_solution_Spring2026.pdf) |||
-Mon, May 18 | 
+Mon, May 18 | Basis functions & Regression splines | [Lecture 20](lectures/STA035C_Lecture20_Spring2026.pdf) | JWHT, Ch 7.1-7.4 ||
 Wed, May 20 | 
 Fri, May 22 | 
 Mon, May 25 | **Memorial day, no class** ||||
