@@ -96,7 +96,7 @@ Wed, May 13 | Derived distributions (cont'd) & Review for Midterm 2   | [Lecture
 Fri, May 15 | **[Midterm2](exams/midterm2/STA131A_Midterm2_Spring2026.pdf) (in-class)** | [Solution](exams/midterm2/STA131A_Midterm2_solution_Spring2026.pdf) |||
 Mon, May 18 | Covariance and conditional variance | [Lecture 20](lectures/STA131A_Lecture20_Spring2026.pdf) | BT, Ch 4.2 & 4.3 | | |
 Wed, May 20 | Moment generating functions | [Lecture 21](lectures/STA131A_Lecture21_Spring2026.pdf) | BT, Ch 4.3 & 4.4 | | |
-Fri, May 22 | 
+Fri, May 22 | Sums of independent random variables | [Lecture 22](lectures/STA131A_Lecture22_Spring2026.pdf) | BT, Ch 4.4 & 4.5 | | |
 Mon, May 25 | **Memorial day, no class** ||||
 Wed, May 27 |
 Fri, May 29 | 
