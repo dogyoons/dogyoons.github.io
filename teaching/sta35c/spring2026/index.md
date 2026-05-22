@@ -92,7 +92,7 @@ Wed, May 13 | Review for Midterm 2  | [Lecture 19](lectures/STA035C_Lecture19_Sp
 Fri, May 15 | **[Midterm2](exams/midterm2/STA035C_Midterm2_Spring2026.pdf) (in-class)** | [Solution](exams/midterm2/STA035C_Midterm2_solution_Spring2026.pdf) |||
 Mon, May 18 | Basis functions & Regression splines | [Lecture 20](lectures/STA035C_Lecture20_Spring2026.pdf) | JWHT, Ch 7.1-7.4 ||
 Wed, May 20 | Natural splines + Smoothing splines | [Lecture 21](lectures/STA035C_Lecture21_Spring2026.pdf) | JWHT, Ch 7.4-7.5 | [Homework 6](homework/STA035C_Homework6_Spring2026.pdf) posted; due Tue, May 26 | |
-Fri, May 22 | 
+Fri, May 22 | Principal component analysis | [Lecture 22](lectures/STA035C_Lecture22_Spring2026.pdf) | JWHT, Ch 6.3.1 & 12.1-12.2 ||
 Mon, May 25 | **Memorial day, no class** ||||
 Wed, May 27 |
 Fri, May 29 | 
