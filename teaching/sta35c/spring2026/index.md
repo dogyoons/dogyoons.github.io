@@ -95,7 +95,7 @@ Wed, May 20 | Natural splines + Smoothing splines | [Lecture 21](lectures/STA035
 Fri, May 22 | Principal component analysis | [Lecture 22](lectures/STA035C_Lecture22_Spring2026.pdf) | JWHT, Ch 6.3.1 & 12.1-12.2 ||
 Mon, May 25 | **Memorial day, no class** ||||
 Wed, May 27 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Lecture23_Spring2026.pdf) | JWHT, Ch 12.2 ||
-Fri, May 29 | 
+Fri, May 29 | Clustering: K-means clustering | [Lecture 24](lectures/STA035C_Lecture24_Spring2026.pdf) | JWHT, Ch 12.4 ||
 Mon, Jun 1  | 
 Wed, Jun 3  | 
 Fri, Jun 5  | **Final exam (1:00 - 3:00 PM)** 
