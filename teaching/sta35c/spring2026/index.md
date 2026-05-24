@@ -94,7 +94,7 @@ Mon, May 18 | Basis functions & Regression splines | [Lecture 20](lectures/STA03
 Wed, May 20 | Natural splines + Smoothing splines | [Lecture 21](lectures/STA035C_Lecture21_Spring2026.pdf) | JWHT, Ch 7.4-7.5 | [Homework 6](homework/STA035C_Homework6_Spring2026.pdf) posted; due Tue, May 26 | |
 Fri, May 22 | Principal component analysis | [Lecture 22](lectures/STA035C_Lecture22_Spring2026.pdf) | JWHT, Ch 6.3.1 & 12.1-12.2 ||
 Mon, May 25 | **Memorial day, no class** ||||
-Wed, May 27 |
+Wed, May 27 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Lecture23_Spring2026.pdf) | JWHT, Ch 12.2 ||
 Fri, May 29 | 
 Mon, Jun 1  | 
 Wed, Jun 3  | 
