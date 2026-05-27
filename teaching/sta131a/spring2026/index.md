@@ -98,7 +98,7 @@ Mon, May 18 | Covariance and conditional variance | [Lecture 20](lectures/STA131
 Wed, May 20 | Moment generating functions | [Lecture 21](lectures/STA131A_Lecture21_Spring2026.pdf) | BT, Ch 4.3 & 4.4 | [Homework 6](homework/STA131A_Homework6_Spring2026.pdf) posted; due Tue, May 26 | |
 Fri, May 22 | Sums of independent random variables | [Lecture 22](lectures/STA131A_Lecture22_Spring2026.pdf) | BT, Ch 4.4 & 4.5 | | |
 Mon, May 25 | **Memorial day, no class** ||||
-Wed, May 27 | Markov and Chebyshev inequalities | [Lecture 23](lectures/STA131A_Lecture23_Spring2026.pdf) | BT, Ch 5.1 | | |
+Wed, May 27 | Markov and Chebyshev inequalities | [Lecture 23](lectures/STA131A_Lecture23_Spring2026.pdf) | BT, Ch 5.1 | [Homework 7](homework/STA131A_Homework7_Spring2026.pdf) posted; due Tue, June 2 | |
 Fri, May 29 | The weak law of large numbers | [Lecture 24](lectures/STA131A_Lecture24_Spring2026.pdf) | BT, Ch 5.2 & 5.3 | | |
 Mon, Jun 1  | 
 Wed, Jun 3  | 
