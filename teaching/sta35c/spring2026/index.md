@@ -96,7 +96,7 @@ Fri, May 22 | Principal component analysis | [Lecture 22](lectures/STA035C_Lectu
 Mon, May 25 | **Memorial day, no class** ||||
 Wed, May 27 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Lecture23_Spring2026.pdf) | JWHT, Ch 12.2 | [Homework 7](homework/STA035C_Homework7_Spring2026.pdf) posted; due Tue, June 2 | |
 Fri, May 29 | Clustering: K-means clustering | [Lecture 24](lectures/STA035C_Lecture24_Spring2026.pdf) | JWHT, Ch 12.4 ||
-Mon, Jun 1  | 
+Mon, Jun 1  | Clustering: Hierarchical clustering | [Lecture 25](lectures/STA035C_Lecture25_Spring2026.pdf) | JWHT, Ch 12.4 ||
 Wed, Jun 3  | 
 Fri, Jun 5  | **Final exam (1:00 - 3:00 PM)** 
 
