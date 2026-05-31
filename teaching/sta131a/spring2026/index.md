@@ -100,7 +100,7 @@ Fri, May 22 | Sums of independent random variables | [Lecture 22](lectures/STA13
 Mon, May 25 | **Memorial day, no class** ||||
 Wed, May 27 | Markov and Chebyshev inequalities | [Lecture 23](lectures/STA131A_Lecture23_Spring2026.pdf) | BT, Ch 5.1 | [Homework 7](homework/STA131A_Homework7_Spring2026.pdf) posted; due Tue, June 2 | |
 Fri, May 29 | The weak law of large numbers | [Lecture 24](lectures/STA131A_Lecture24_Spring2026.pdf) | BT, Ch 5.2 & 5.3 | | |
-Mon, Jun 1  | 
+Mon, Jun 1  | The central limit theorem | [Lecture 25](lectures/STA131A_Lecture25_Spring2026.pdf) | BT, Ch 5.4 | | |
 Wed, Jun 3  | 
             |
 Thu, Jun 11  | **Final exam (1:00 - 3:00 PM)** 
