@@ -110,3 +110,4 @@ Practice exams and solutions:
 * [Midterm1 Practice B](exams/midterm1/STA131A_Midterm1_practice_B_Spring2026.pdf) and [Solution](exams/midterm1/STA131A_Midterm1_practice_B_solution_Spring2026.pdf)
 * [Midterm2 Practice A](exams/midterm2/STA131A_Midterm2_practice_A_Spring2026.pdf) and [Solution](exams/midterm2/STA131A_Midterm2_practice_A_solution_Spring2026.pdf)
 * [Midterm2 Practice B](exams/midterm2/STA131A_Midterm2_practice_B_Spring2026.pdf) and [Solution](exams/midterm2/STA131A_Midterm2_practice_B_solution_Spring2026.pdf)
+* [Final exam Practice A](exams/final/STA131A_Final_practiceA_Spring2026.pdf) and [Solution](exams/final/STA131A_Final_practiceA_solution_Spring2026.pdf)
