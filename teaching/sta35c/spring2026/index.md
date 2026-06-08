@@ -98,7 +98,7 @@ Wed, May 27 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA0
 Fri, May 29 | Clustering: K-means clustering | [Lecture 24](lectures/STA035C_Lecture24_Spring2026.pdf) | JWHT, Ch 12.4 ||
 Mon, Jun 1  | Clustering: Hierarchical clustering | [Lecture 25](lectures/STA035C_Lecture25_Spring2026.pdf) | JWHT, Ch 12.4 ||
 Wed, Jun 3  | Review for final exam & Conclusion | [Lecture 26](lectures/STA035C_Lecture26_Spring2026.pdf) |||
-Fri, Jun 5  | **Final exam (1:00 - 3:00 PM)** 
+Fri, Jun 5  | **[Final exam](exams/final/STA035C_Final_Spring2026.pdf) (1:00 - 3:00 PM)** | [Solution](exams/final/STA035C_Final_solution_Spring2026.pdf) |||
 
 Sample exams from the previous year (Spring 2025):
 * [Midterm1](previous_exams/STA_035C_Spring2025_Midterm1.pdf) and [Solution](previous_exams/STA_035C_Spring2025_Midterm1_sol.pdf)
