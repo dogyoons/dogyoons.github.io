@@ -103,7 +103,7 @@ Fri, May 29 | The weak law of large numbers | [Lecture 24](lectures/STA131A_Lect
 Mon, Jun 1  | The central limit theorem | [Lecture 25](lectures/STA131A_Lecture25_Spring2026.pdf) | BT, Ch 5.4 | | |
 Wed, Jun 3  | Review for final exam & Conclusion | [Lecture 26](lectures/STA131A_Lecture26_Spring2026.pdf) |||
             |
-Thu, Jun 11  | **Final exam (1:00 - 3:00 PM)** 
+Thu, Jun 11  | **[Final exam](exams/final/STA131A_Final_Spring2026.pdf) (1:00 - 3:00 PM)** | [Solution](exams/final/STA131A_Final_solution_Spring2026.pdf) |||
 
 Practice exams and solutions:
 * [Midterm1 Practice A](exams/midterm1/STA131A_Midterm1_practice_A_Spring2026.pdf) and [Solution](exams/midterm1/STA131A_Midterm1_practice_A_solution_Spring2026.pdf)
