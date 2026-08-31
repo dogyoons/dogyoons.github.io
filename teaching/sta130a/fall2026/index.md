@@ -32,7 +32,7 @@ permalink: /teaching/sta130a/fall2026/
 
 
 **Textbooks**: 
-There are two required textbooks, whose digital copy will be available on Canvas in Reading List.
+There are two required textbooks, whose digital copies will be available on Canvas in Reading List.
 * Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012), [Athena Scientific].
 * John Rice.  Mathematical Statistics and Data Analysis, 3rd edition (2007), [Cengage Learning / Brooks/Cole].
 
@@ -69,7 +69,7 @@ The students’ performance in this course will be evaluated based on the follow
 * Participation: up to 3% extra
 
 
-
+## Tentative Class Schedule
 * Before the course begins, students should complete the "Homework 0" for self-assessment; this will not be collected or graded, and no solutions will be provided. 
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
