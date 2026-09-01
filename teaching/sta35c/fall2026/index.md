@@ -21,13 +21,13 @@ permalink: /teaching/sta35c/fall2026/
 * Dogyoon Song (Instructor): TBA
 
 
-**Syllabus**: TBA
+**Syllabus**: [link](files/STA035C_syllabus_Fall2026.pdf)
 
 
-**Canvas**: TBA
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/1107851)
 
 
-**Piazza**: TBA
+**Piazza**: [link](https://piazza.com/ucdavis/fall2026/sta035c001fq2026/home)
 
 
 **Textbooks**: 
