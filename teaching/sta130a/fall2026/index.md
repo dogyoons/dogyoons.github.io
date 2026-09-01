@@ -22,18 +22,18 @@ permalink: /teaching/sta130a/fall2026/
 * Dogyoon Song (Instructor): TBA
 
 
-**Syllabus**: TBA
+**Syllabus**: [link](files/STA130A_syllabus_Fall2026.pdf)
 
 
-**Canvas**: TBA
+**Canvas**: [link](https://canvas.ucdavis.edu/courses/1091815)
 
 
-**Piazza**: TBA
+**Piazza**: [link](https://piazza.com/ucdavis/fall2026/sta130ab01b02fq2026/home)
 
 
 **Textbooks**: 
 There are two required textbooks, whose digital copies will be available on Canvas in Reading List.
-* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2012), [Athena Scientific].
+* Dimitri Bertsekas and John Tsitsiklis.  Introduction to Probability, 2nd edition (2008), [Athena Scientific].
 * John Rice.  Mathematical Statistics and Data Analysis, 3rd edition (2007), [Cengage Learning / Brooks/Cole].
 
 
