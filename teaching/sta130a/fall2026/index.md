@@ -56,7 +56,7 @@ A tentative list of topics to be covered include:
   - The (weak) law of large numbers
   - The central limit theorem
 * Estimation
-  - Sampling distributions; chi-square, (t), and (F) distributions
+  - Sampling distributions; chi-square, $t$, and $F$ distributions
   - Point estimators and their properties
   - Method of moments and maximum likelihood estimation
   - (time permitting) Fisher information, efficiency, and selected topics in sufficiency
