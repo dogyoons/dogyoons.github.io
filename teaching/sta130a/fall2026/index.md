@@ -8,7 +8,7 @@ permalink: /teaching/sta130a/fall2026/
 
 **Instructor**: Dogyoon Song (dgsong [at] ucdavis [dot] edu)
 
-**Teaching Assistant**: TBA
+**Teaching Assistant**: Dongchan Kim (dockim [at] ucdavis [dot] edu)
 
 **Lectures**: Mondays, Wednesdays and Fridays, 11:00 AM -- 11:50 AM, Wellman Hall 226
 * *This is an in-person only class, and lectures will not be recorded.*
@@ -70,7 +70,7 @@ The students’ performance in this course will be evaluated based on the follow
 
 
 ## Tentative Class Schedule
-* Before the course begins, students should complete the "Homework 0" for self-assessment; this will not be collected or graded, and no solutions will be provided. 
+* Before the course begins, students should complete the ["Homework 0"](homework/STA130A_Homework0_Fall2026.pdf) for self-assessment; this will not be collected or graded, and no solutions will be provided. 
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- 
