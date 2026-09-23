@@ -74,7 +74,7 @@ The students’ performance in this course will be evaluated based on the follow
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- 
-Wed, Sep 23 | | | | |
+Wed, Sep 23 | Introduction | [Lecture 1](lectures/STA130A_Lecture01_Fall2026.pdf) | | | |
 Fri, Sep 25 | | | | |
 Mon, Sep 28 | | | | |
 Wed, Sep 30 | | | | |
