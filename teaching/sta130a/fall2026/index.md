@@ -74,8 +74,8 @@ The students’ performance in this course will be evaluated based on the follow
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- 
-Wed, Sep 22 | | | | |
-Fri, Sep 24 | | | | |
+Wed, Sep 23 | | | | |
+Fri, Sep 25 | | | | |
 Mon, Sep 28 | | | | |
 Wed, Sep 30 | | | | |
 Fri, Oct 2 | | | | |
