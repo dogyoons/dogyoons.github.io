@@ -19,7 +19,8 @@ permalink: /teaching/sta130a/fall2026/
 
 
 **Office hours**:
-* Dogyoon Song (Instructor): TBA
+* Dogyoon Song (Instructor): Wed 2--3 PM, MSB 1143
+* Dongchan Kim (TA): Thu 9--11 AM, MSB 1117
 
 
 **Syllabus**: [link](files/STA130A_syllabus_Fall2026.pdf)

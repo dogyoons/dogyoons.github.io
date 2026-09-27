@@ -18,7 +18,8 @@ permalink: /teaching/sta35c/fall2026/
 
 
 **Office hours**:
-* Dogyoon Song (Instructor): TBA
+* Dogyoon Song (Instructor): Wed 1--2 PM, MSB 1143
+* Qiqi Liu (TA): Thu 12--1 PM, MSB 1117
 
 
 **Syllabus**: [link](files/STA035C_syllabus_Fall2026.pdf)
