@@ -78,7 +78,7 @@ Lecture Day | Topics | Slides | Additional references  | HW | Notes
 Wed, Sep 23 | Introduction | [Lecture 1](lectures/STA130A_Lecture01_Fall2026.pdf) | | | |
 Fri, Sep 25 | Set theory and probabilistic models | [Lecture 2](lectures/STA130A_Lecture02_Fall2026.pdf) | BT, Ch 1.1 & 1.2 | [Homework 1](homework/STA130A_Homework1_Fall2026.pdf) posted; due Thu, October 1 | |
 Mon, Sep 28 | Conditional probability and Bayes' rule | [Lecture 3](lectures/STA130A_Lecture03_Fall2026.pdf) | BT, Ch 1.3 & 1.4 | | |
-Wed, Sep 30 | | | | |
+Wed, Sep 30 | Independence and counting principle | [Lecture 4](lectures/STA130A_Lecture04_Fall2026.pdf) | BT, Ch 1.5 & 1.6 | | |
 Fri, Oct 2 | | | | |
 Mon, Oct 5 | | | | |
 Wed, Oct 7 | | | | |
