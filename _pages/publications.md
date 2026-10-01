@@ -20,7 +20,7 @@ Publications are grouped by category in reverse chronological order. Preprints a
 
 * **[Benign overfitting beyond prediction: The ordinary least squares interpolator](https://doi.org/10.1093/biomet/asag039)**\\
 Dennis Shen<sup>*</sup>, **Dogyoon Song**<sup>*</sup>, Peng Ding and Jasjeet S. Sekhon\\
-Biometrika, asag039, 2026 (advance online publication). [arXiv](https://arxiv.org/abs/2309.15769)
+Biometrika, 2026+ (advance online publication). [arXiv](https://arxiv.org/abs/2309.15769)
 
 * **[Local minima structures in Gaussian mixture models](https://ieeexplore.ieee.org/abstract/document/10463706)**\\
 Yudong Chen<sup>*</sup>, **Dogyoon Song**<sup>*</sup>, Xumei Xi and Yuqian Zhang\\
@@ -116,7 +116,7 @@ VLSI-DAT 2013
 
 * **[Neumann-series corrections for regression adjustment in randomized experiments](https://arxiv.org/abs/2511.08539)**\\
 **Dogyoon Song**\\
-arXiv:2511.08539, 2025
+arXiv:2511.08539, November 2025
 
 * **[On separability of covariance in multiway data analysis](https://arxiv.org/abs/2302.02415)**\\
 **Dogyoon Song** and Alfred O. Hero\\
