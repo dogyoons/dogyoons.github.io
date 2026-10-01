@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <iframe
-  src="{{ '/files/DGSong_Curriculum_Vitae.pdf' | relative_url }}"
+  src="{{ '/files/cv_dgsong.pdf' | relative_url }}"
   style="border: none;"
   width="100%"
   height="1000px">
