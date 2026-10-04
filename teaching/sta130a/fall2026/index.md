@@ -80,7 +80,7 @@ Fri, Sep 25 | Set theory and probabilistic models | [Lecture 2](lectures/STA130A
 Mon, Sep 28 | Conditional probability and Bayes' rule | [Lecture 3](lectures/STA130A_Lecture03_Fall2026.pdf) | BT, Ch 1.3 & 1.4 | | |
 Wed, Sep 30 | Independence and counting principle | [Lecture 4](lectures/STA130A_Lecture04_Fall2026.pdf) | BT, Ch 1.5 & 1.6 | | |
 Fri, Oct 2 | Counting & Discrete random variables | [Lecture 5](lectures/STA130A_Lecture05_Fall2026.pdf) | BT, Ch 1.6, 2.1 & 2.2 |  [Homework 2](homework/STA130A_Homework2_Fall2026.pdf) posted; due Thu, October 8 | |
-Mon, Oct 5 | | | | |
+Mon, Oct 5 | Expectation, mean and variance | [Lecture 6](lectures/STA130A_Lecture06_Fall2026.pdf) | BT, Ch 2.3 & 2.4 |  |
 Wed, Oct 7 | | | | |
 Fri, Oct 9 | | | | |
 Mon, Oct 12 | | | | |
