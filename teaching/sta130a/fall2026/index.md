@@ -108,3 +108,7 @@ Mon, Nov 30 | | | | |
 Wed, Dec 2 | | | | |
 Fri, Dec 4 | | | | |
 Mon, Dec 7 | Final exam (3:30--5:30 PM) | | | |
+
+
+Practice exams and solutions:
+* [Midterm1 Practice](exams/midterm1/STA130A_Midterm1_practice_Fall2026.pdf)
