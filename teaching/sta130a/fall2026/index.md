@@ -83,7 +83,7 @@ Fri, Oct 2 | Counting & Discrete random variables | [Lecture 5](lectures/STA130A
 Mon, Oct 5 | Expectation, mean and variance | [Lecture 6](lectures/STA130A_Lecture06_Fall2026.pdf) | BT, Ch 2.3 & 2.4 |  |
 Wed, Oct 7 | Joint, marginal, and conditional distributions | [Lecture 7](lectures/STA130A_Lecture07_Fall2026.pdf) | BT, Ch 2.5 & 2.6 |  |
 Fri, Oct 9 | Conditional expectation and independence | [Lecture 8](lectures/STA130A_Lecture08_Fall2026.pdf) | BT, Ch 2.6 & 2.7 |  [Homework 3](homework/STA130A_Homework3_Fall2026.pdf) posted; due Thu, October 15 | |
-Mon, Oct 12 | | | | |
+Mon, Oct 12 | Continuous random variables | [Lecture 9](lectures/STA130A_Lecture09_Fall2026.pdf) | BT, Ch 3.1 & 3.2 |  |
 Wed, Oct 14 | | | | |
 Fri, Oct 16 | | | | |
 Mon, Oct 19 | Midterm 1 (in class) | | | |
