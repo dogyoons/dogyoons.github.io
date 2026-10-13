@@ -75,7 +75,7 @@ Mon, Oct 5 | Multiple linear regression | [Lecture 6](lectures/STA035C_Lecture06
 Wed, Oct 7 | Qualitative predictors & pitfalls in linear regression | [Lecture 7](lectures/STA035C_Lecture07_Fall2026.pdf) | JWHT, Ch 3.3 & 3.5 | |
 Fri, Oct 9 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Lecture08_Fall2026.pdf) | JWHT, Ch 4.1-4.3 | [Homework 3](homework/STA035C_Homework3_Fall2026.pdf) posted; due Thu, October 15 | |
 Mon, Oct 12 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Lecture09_Fall2026.pdf) | JWHT, Ch 4.3-4.4 ||
-Wed, Oct 14 | | | | |
+Wed, Oct 14 | Generative models & Linear discriminant analysis | [Lecture 10](lectures/STA035C_Lecture10_Fall2026.pdf) |  JWHT, Ch 4.4 ||
 Fri, Oct 16 | | | | |
 Mon, Oct 19 | Midterm 1 (in class) | | | |
 Wed, Oct 21 | | | | |
