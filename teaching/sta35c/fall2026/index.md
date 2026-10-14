@@ -74,8 +74,8 @@ Fri, Oct 2 | Simple linear regression | [Lecture 5](lectures/STA035C_Lecture05_F
 Mon, Oct 5 | Multiple linear regression | [Lecture 6](lectures/STA035C_Lecture06_Fall2026.pdf) | JWHT, Ch 3.2 & 7.1 |  | 
 Wed, Oct 7 | Qualitative predictors & pitfalls in linear regression | [Lecture 7](lectures/STA035C_Lecture07_Fall2026.pdf) | JWHT, Ch 3.3 & 3.5 | |
 Fri, Oct 9 | Classification & Logistic regression | [Lecture 8](lectures/STA035C_Lecture08_Fall2026.pdf) | JWHT, Ch 4.1-4.3 | [Homework 3](homework/STA035C_Homework3_Fall2026.pdf) posted; due Thu, October 15 | |
-Mon, Oct 12 | | | | |
-Wed, Oct 14 | | | | |
+Mon, Oct 12 | Logistic regression (cont'd) & Classification errors| [Lecture 9](lectures/STA035C_Lecture09_Fall2026.pdf) | JWHT, Ch 4.3-4.4 ||
+Wed, Oct 14 | Generative models & Linear discriminant analysis | [Lecture 10](lectures/STA035C_Lecture10_Fall2026.pdf) |  JWHT, Ch 4.4 ||
 Fri, Oct 16 | | | | |
 Mon, Oct 19 | Midterm 1 (in class) | | | |
 Wed, Oct 21 | | | | |
@@ -100,3 +100,7 @@ Wed, Dec 2 | | | | |
 Fri, Dec 4 | | | | |
  | | | | |
 Wed, Dec 9 | Final exam (8:00--10:00 AM) | | | |
+
+
+## Practice exams
+* [Midterm1 Practice](exams/midterm1/STA35C_Midterm1_practice_Fall2026.pdf)
