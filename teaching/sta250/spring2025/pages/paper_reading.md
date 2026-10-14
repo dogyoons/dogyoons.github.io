@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "STA 250, Spring 2025 - Reading Group Paper Discussion"
-permalink: /teaching/sta250/paper-reading/
+permalink: /teaching/sta250/spring2025/pages/paper-reading/
 ---
 
 ## Overview
