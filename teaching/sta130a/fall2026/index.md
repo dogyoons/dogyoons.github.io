@@ -20,7 +20,7 @@ permalink: /teaching/sta130a/fall2026/
 
 **Office hours**:
 * Dogyoon Song (Instructor): Wed 2--3 PM, MSB 1143
-* Dongchan Kim (TA): Thu 9--11 AM, MSB 1117
+* Dongchan Kim (TA): Thu 8:30--10:30 AM, MSB 1117
 
 
 **Syllabus**: [link](files/STA130A_syllabus_Fall2026.pdf)
@@ -85,7 +85,7 @@ Wed, Oct 7 | Joint, marginal, and conditional distributions | [Lecture 7](lectur
 Fri, Oct 9 | Conditional expectation and independence | [Lecture 8](lectures/STA130A_Lecture08_Fall2026.pdf) | BT, Ch 2.6 & 2.7 |  [Homework 3](homework/STA130A_Homework3_Fall2026.pdf) posted; due Thu, October 15 | |
 Mon, Oct 12 | Continuous random variables | [Lecture 9](lectures/STA130A_Lecture09_Fall2026.pdf) | BT, Ch 3.1 & 3.2 |  |
 Wed, Oct 14 | Normal random variables | [Lecture 10](lectures/STA130A_Lecture10_Fall2026.pdf) | BT, Ch 3.3 | | 
-Fri, Oct 16 | | | | |
+Fri, Oct 16 | | | | | TA's extra office hour (noon--1pm)
 Mon, Oct 19 | Midterm 1 (in class) | | | |
 Wed, Oct 21 | | | | |
 Fri, Oct 23 | | | | |
