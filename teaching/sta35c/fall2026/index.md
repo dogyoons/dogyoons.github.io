@@ -103,4 +103,4 @@ Wed, Dec 9 | Final exam (8:00--10:00 AM) | | | |
 
 
 ## Practice exams
-* [Midterm1 Practice](exams/midterm1/STA35C_Midterm1_practice_Fall2026.pdf)
+* [Midterm1 Practice](exams/midterm1/STA35C_Midterm1_practice_Fall2026.pdf) and [Solution](exams/midterm1/STA35C_Midterm1_practice_sol_Fall2026.pdf)
