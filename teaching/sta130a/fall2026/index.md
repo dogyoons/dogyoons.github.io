@@ -86,7 +86,7 @@ Fri, Oct 9 | Conditional expectation and independence | [Lecture 8](lectures/STA
 Mon, Oct 12 | Continuous random variables | [Lecture 9](lectures/STA130A_Lecture09_Fall2026.pdf) | BT, Ch 3.1 & 3.2 |  |
 Wed, Oct 14 | Normal random variables | [Lecture 10](lectures/STA130A_Lecture10_Fall2026.pdf) | BT, Ch 3.3 | | 
 Fri, Oct 16 | Review for Midterm 1 | [Lecture 11](lectures/STA130A_Lecture11_Fall2026.pdf) | | | TA's extra office hour (noon--1pm)
-Mon, Oct 19 | Midterm 1 (in class) | | | |
+Mon, Oct 19 | **[Midterm 1](exams/midterm1/STA130A_Midterm1_Fall2026.pdf) (in class)** | [Solution](exams/midterm1/STA130A_Midterm1_solution_Fall2026.pdf) | | |
 Wed, Oct 21 | | | | |    
 Fri, Oct 23 | | | | |
 Mon, Oct 26 | | | | |
