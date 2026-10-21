@@ -78,7 +78,7 @@ Mon, Oct 12 | Logistic regression (cont'd) & Classification errors| [Lecture 9](
 Wed, Oct 14 | Generative models & Linear discriminant analysis | [Lecture&nbsp;10](lectures/STA035C_Lecture10_Fall2026.pdf) |  JWHT, Ch 4.4 | |
 Fri, Oct 16 | More on generative models + Review for Midterm 1 | [Lecture 11](lectures/STA035C_Lecture11_Fall2026.pdf) |  JWHT, Ch 4.4 & 4.5 | |
 Mon, Oct 19 | **[Midterm 1](exams/midterm1/STA35C_Midterm1_Fall2026.pdf) (in class)** | [Solution](exams/midterm1/STA35C_Midterm1_solution_Fall2026.pdf) | | |
-Wed, Oct 21 | The bias-variance tradeoff | [Lecture 12](lectures/STA035C_Lecture12_Fall2026.pdf) | JWHT, Ch 2.2 || Remote lecture on Zoom (see [Canvas](https://canvas.ucdavis.edu/courses/1107851/discussion_topics/1719940))<br>Instructor's office hours canceled
+Wed, Oct 21 | The bias-variance tradeoff | [Lecture 12](lectures/STA035C_Lecture12_Fall2026.pdf) | JWHT, Ch 2.2 || Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1107851/discussion_topics/1719940))<br>Instructor's office hours canceled
 Fri, Oct 23 | | | | |
 Mon, Oct 26 | | | | |
 Wed, Oct 28 | | | | |
