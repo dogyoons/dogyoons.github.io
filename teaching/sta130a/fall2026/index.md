@@ -75,7 +75,7 @@ The students’ performance in this course will be evaluated based on the follow
 
 Lecture Day | Topics | Slides | Additional references  | HW | Notes
 --- | --- | --- | --- | --- | --- 
-Wed, Sep 23 | Introduction | [Lecture 1](lectures/STA130A_Lecture01_Fall2026.pdf) | | | |
+Wed, Sep&nbsp;23 | Introduction | [Lecture 1](lectures/STA130A_Lecture01_Fall2026.pdf) | | | |
 Fri, Sep 25 | Set theory and probabilistic models | [Lecture 2](lectures/STA130A_Lecture02_Fall2026.pdf) | BT, Ch 1.1 & 1.2 | [Homework 1](homework/STA130A_Homework1_Fall2026.pdf) posted; due Thu, October 1 | |
 Mon, Sep 28 | Conditional probability and Bayes' rule | [Lecture 3](lectures/STA130A_Lecture03_Fall2026.pdf) | BT, Ch 1.3 & 1.4 | | |
 Wed, Sep 30 | Independence and counting principle | [Lecture 4](lectures/STA130A_Lecture04_Fall2026.pdf) | BT, Ch 1.5 & 1.6 | | |
@@ -84,10 +84,10 @@ Mon, Oct 5 | Expectation, mean and variance | [Lecture 6](lectures/STA130A_Lectu
 Wed, Oct 7 | Joint, marginal, and conditional distributions | [Lecture 7](lectures/STA130A_Lecture07_Fall2026.pdf) | BT, Ch 2.5 & 2.6 |  |
 Fri, Oct 9 | Conditional expectation and independence | [Lecture 8](lectures/STA130A_Lecture08_Fall2026.pdf) | BT, Ch 2.6 & 2.7 |  [Homework 3](homework/STA130A_Homework3_Fall2026.pdf) posted; due Thu, October 15 | |
 Mon, Oct 12 | Continuous random variables | [Lecture 9](lectures/STA130A_Lecture09_Fall2026.pdf) | BT, Ch 3.1 & 3.2 |  |
-Wed, Oct 14 | Normal random variables | [Lecture 10](lectures/STA130A_Lecture10_Fall2026.pdf) | BT, Ch 3.3 | | 
+Wed, Oct 14 | Normal random variables | [Lecture&nbsp;10](lectures/STA130A_Lecture10_Fall2026.pdf) | BT, Ch 3.3 | | 
 Fri, Oct 16 | Review for Midterm 1 | [Lecture 11](lectures/STA130A_Lecture11_Fall2026.pdf) | | | TA's extra office hour (noon--1pm)
 Mon, Oct 19 | **[Midterm 1](exams/midterm1/STA130A_Midterm1_Fall2026.pdf) (in class)** | [Solution](exams/midterm1/STA130A_Midterm1_solution_Fall2026.pdf) | | |
-Wed, Oct 21 | Joint continuous distributions | [Lecture 12](lectures/STA130A_Lecture12_Fall2026.pdf) | BT, Ch 3.4 | | Remote lecture on Zoom (see [Canvas announcement](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1719941))<br>Instructor's office hours canceled
+Wed, Oct 21 | Joint continuous distributions | [Lecture 12](lectures/STA130A_Lecture12_Fall2026.pdf) | BT, Ch 3.4 | | Remote lecture on Zoom (see [Canvas](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1719941))<br>Instructor's office hours canceled
 Fri, Oct 23 | | | | |
 Mon, Oct 26 | | | | |
 Wed, Oct 28 | | | | |
