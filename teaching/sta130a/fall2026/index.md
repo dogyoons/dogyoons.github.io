@@ -88,7 +88,7 @@ Wed, Oct 14 | Normal random variables | [Lecture&nbsp;10](lectures/STA130A_Lectu
 Fri, Oct 16 | Review for Midterm 1 | [Lecture 11](lectures/STA130A_Lecture11_Fall2026.pdf) | | | TA's extra office hour (noon--1pm)
 Mon, Oct 19 | **[Midterm 1](exams/midterm1/STA130A_Midterm1_Fall2026.pdf) (in class)** | [Solution](exams/midterm1/STA130A_Midterm1_solution_Fall2026.pdf) | | |
 Wed, Oct 21 | Joint continuous distributions | [Lecture 12](lectures/STA130A_Lecture12_Fall2026.pdf) | BT, Ch 3.4 | | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1719941))<br>Instructor's office hours canceled
-Fri, Oct 23 | | | | |
+Fri, Oct 23 | Conditional PDF and independence | [Lecture 13](lectures/STA130A_Lecture13_Fall2026.pdf) | BT, Ch 3.5 & 4.3 |  [Homework 4](homework/STA130A_Homework4_Fall2026.pdf) posted; due Thu, Oct 29 | |
 Mon, Oct 26 | | | | |
 Wed, Oct 28 | | | | |
 Fri, Oct 30 | | | | |
