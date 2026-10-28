@@ -81,7 +81,7 @@ Mon, Oct 19 | **[Midterm 1](exams/midterm1/STA35C_Midterm1_Fall2026.pdf) (in cla
 Wed, Oct 21 | The bias-variance tradeoff | [Lecture 12](lectures/STA035C_Lecture12_Fall2026.pdf) | JWHT, Ch 2.2 || Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1107851/discussion_topics/1719940))<br>Instructor's office hours canceled
 Fri, Oct 23 | Cross-validation | [Lecture 13](lectures/STA035C_Lecture13_Fall2026.pdf) | JWHT, Ch 5.1 | [Homework 4](homework/STA035C_Homework4_Fall2026.pdf) posted; due Thu, Oct 29 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1107851/discussion_topics/1719940))
 Mon, Oct 26 | k-fold CV & Bootstrap | [Lecture 14](lectures/STA035C_Lecture14_Fall2026.pdf) | JWHT, Ch 5.1 & 5.2 | |
-Wed, Oct 28 | | | | |
+Wed, Oct 28 | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Fall2026.pdf) | JWHT, Ch 6.1 | |
 Fri, Oct 30 | | | | |
 Mon, Nov 2 | | | | |
 Wed, Nov 4 | | | | |
