@@ -91,7 +91,7 @@ Wed, Oct 21 | Joint continuous distributions | [Lecture 12](lectures/STA130A_Lec
 Fri, Oct 23 | Conditional PDF and independence | [Lecture 13](lectures/STA130A_Lecture13_Fall2026.pdf) | BT, Ch 3.5 & 4.3 |  [Homework 4](homework/STA130A_Homework4_Fall2026.pdf) posted; due Thu, Oct 29 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1719941))
 Mon, Oct 26 | Derived distributions | [Lecture 14](lectures/STA130A_Lecture14_Fall2026.pdf) | BT, Ch 4.1 | |
 Wed, Oct 28 | Covariance, correlation, and total variance| [Lecture 15](lectures/STA130A_Lecture15_Fall2026.pdf) | BT, Ch 4.2 & 4.3 | |
-Fri, Oct 30 | | | | |
+Fri, Oct 30 | Conditional variance and total variance| [Lecture 16](lectures/STA130A_Lecture16_Fall2026.pdf) | BT, Ch 4.2 & 4.3 | |
 Mon, Nov 2 | | | | |
 Wed, Nov 4 | | | | |
 Fri, Nov 6 | | | | |
