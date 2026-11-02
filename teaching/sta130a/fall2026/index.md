@@ -92,8 +92,8 @@ Fri, Oct 23 | Conditional PDF and independence | [Lecture 13](lectures/STA130A_L
 Mon, Oct 26 | Derived distributions | [Lecture 14](lectures/STA130A_Lecture14_Fall2026.pdf) | BT, Ch 4.1 | |
 Wed, Oct 28 | Covariance, correlation, and total variance| [Lecture 15](lectures/STA130A_Lecture15_Fall2026.pdf) | BT, Ch 4.2 & 4.3 | |
 Fri, Oct 30 | Conditional variance and total variance| [Lecture 16](lectures/STA130A_Lecture16_Fall2026.pdf) | BT, Ch 4.2 & 4.3 | [Homework 5](homework/STA130A_Homework5_Fall2026.pdf) posted; due Thu, Nov 5 |
-Mon, Nov 2 | Moment generating functions | [Lecture 16](lectures/STA130A_Lecture17_Fall2026.pdf) | BT, Ch 4.4 | |
-Wed, Nov 4 | | | | |
+Mon, Nov 2 | Moment generating functions | [Lecture 17](lectures/STA130A_Lecture17_Fall2026.pdf) | BT, Ch 4.4 | |
+Wed, Nov 4 | Markov and Chebyshev inequalities | [Lecture 18](lectures/STA130A_Lecture18_Fall2026.pdf) | BT, Ch 5.1 | |
 Fri, Nov 6 | | | | |
 Mon, Nov 9 | Midterm 2 (in class)  | | | |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
