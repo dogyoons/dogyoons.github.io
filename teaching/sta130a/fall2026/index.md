@@ -112,3 +112,6 @@ Mon, Dec 7 | Final exam (3:30--5:30 PM) | | | |
 
 ## Practice exams 
 * [Midterm1 Practice](exams/midterm1/STA130A_Midterm1_practice_Fall2026.pdf) and [Solution](exams/midterm1/STA130A_Midterm1_practice_sol_Fall2026.pdf)
+* [Midterm2 Practice A](exams/midterm2/STA130A_Midterm2_practiceA_Fall2026.pdf) and [Solution](exams/midterm2/STA130A_Midterm2_practiceA_sol_Fall2026.pdf)
+
+For additional practice on overlapping topics, see the exams and practice materials from [STA 131A (Spring 2026)](https://dogyoons.github.io/teaching/sta131a/spring2026/). The two courses have overlaps in contents but differ in coverage; please refer to this quarter’s materials and announcements for the topics included in our exams.
