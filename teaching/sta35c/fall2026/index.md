@@ -83,8 +83,8 @@ Fri, Oct 23 | Cross-validation | [Lecture 13](lectures/STA035C_Lecture13_Fall202
 Mon, Oct 26 | k-fold CV & Bootstrap | [Lecture 14](lectures/STA035C_Lecture14_Fall2026.pdf) | JWHT, Ch 5.1 & 5.2 | |
 Wed, Oct 28 | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Fall2026.pdf) | JWHT, Ch 6.1 | |
 Fri, Oct 30 | Regularization | [Lecture 16](lectures/STA035C_Lecture16_Fall2026.pdf) | JWHT, Ch 6.2 | [Homework 5](homework/STA035C_Homework5_Fall2026.pdf) posted; due Thu, Nov 5 | 
-Mon, Nov 2 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Lecture17_Fall2026.pdf) | JWHT, Ch 6.2 & 13.1-13.2 ||
-Wed, Nov 4 | | | | |
+Mon, Nov 2 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Lecture17_Fall2026.pdf) | JWHT, Ch 6.2 & 13.1-13.2 | |
+Wed, Nov 4 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Lecture18_Fall2026.pdf) | JWHT, Ch 13.2-13.4 | |
 Fri, Nov 6 | | | | |
 Mon, Nov 9 | Midterm 2 (in class)  | | | |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
