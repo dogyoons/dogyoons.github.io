@@ -104,3 +104,6 @@ Wed, Dec 9 | Final exam (8:00--10:00 AM) | | | |
 
 ## Practice exams
 * [Midterm1 Practice](exams/midterm1/STA35C_Midterm1_practice_Fall2026.pdf) and [Solution](exams/midterm1/STA35C_Midterm1_practice_sol_Fall2026.pdf)
+* [Midterm2 Practice A](exams/midterm2/STA35C_Midterm2_practiceA_Fall2026.pdf) and [Solution](exams/midterm2/STA35C_Midterm2_practiceA_sol_Fall2026.pdf)
+
+For additional practice, see the exams and practice materials from previous STA 35C offerings: [Spring 2026](https://dogyoons.github.io/teaching/sta35c/spring2026/) and [Spring 2025](https://dogyoons.github.io/teaching/sta35c/spring2025/). Exam coverage may differ across offerings; please refer to this quarter’s materials and announcements for the current exam coverage.
