@@ -85,7 +85,7 @@ Wed, Oct 28 | Subset selection | [Lecture 15](lectures/STA035C_Lecture15_Fall202
 Fri, Oct 30 | Regularization | [Lecture 16](lectures/STA035C_Lecture16_Fall2026.pdf) | JWHT, Ch 6.2 | [Homework 5](homework/STA035C_Homework5_Fall2026.pdf) posted; due Thu, Nov 5 | 
 Mon, Nov 2 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Lecture17_Fall2026.pdf) | JWHT, Ch 6.2 & 13.1-13.2 | |
 Wed, Nov 4 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Lecture18_Fall2026.pdf) | JWHT, Ch 13.2-13.4 | |
-Fri, Nov 6 | | | | |
+Fri, Nov 6 | Review for Midterm 2 | [Lecture 19](lectures/STA035C_Lecture19_Fall2026.pdf) | | |
 Mon, Nov 9 | Midterm 2 (in class)  | | | |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | | | | |

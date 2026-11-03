@@ -94,7 +94,7 @@ Wed, Oct 28 | Covariance, correlation, and total variance| [Lecture 15](lectures
 Fri, Oct 30 | Conditional variance and total variance| [Lecture 16](lectures/STA130A_Lecture16_Fall2026.pdf) | BT, Ch 4.2 & 4.3 | [Homework 5](homework/STA130A_Homework5_Fall2026.pdf) posted; due Thu, Nov 5 |
 Mon, Nov 2 | Moment generating functions | [Lecture 17](lectures/STA130A_Lecture17_Fall2026.pdf) | BT, Ch 4.4 | |
 Wed, Nov 4 | Markov and Chebyshev inequalities | [Lecture 18](lectures/STA130A_Lecture18_Fall2026.pdf) | BT, Ch 5.1 | |
-Fri, Nov 6 | | | | |
+Fri, Nov 6 | Review for Midterm 2 | [Lecture 19](lectures/STA130A_Lecture19_Fall2026.pdf) | | |
 Mon, Nov 9 | Midterm 2 (in class)  | | | |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | | | | |
