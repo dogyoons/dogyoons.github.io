@@ -86,7 +86,7 @@ Fri, Oct 30 | Regularization | [Lecture 16](lectures/STA035C_Lecture16_Fall2026.
 Mon, Nov 2 | Regularization (cont'd) & Multiple testing | [Lecture 17](lectures/STA035C_Lecture17_Fall2026.pdf) | JWHT, Ch 6.2 & 13.1-13.2 | |
 Wed, Nov 4 | Multiple hypotheses testing | [Lecture 18](lectures/STA035C_Lecture18_Fall2026.pdf) | JWHT, Ch 13.2-13.4 | |
 Fri, Nov 6 | Review for Midterm 2 | [Lecture 19](lectures/STA035C_Lecture19_Fall2026.pdf) | | |
-Mon, Nov 9 | **[Midterm 2](exams/midterm2/STA35C_Midterm2_Fall2026.pdf) (in class)** | [Solution](exams/midterm2/STA35C_Midterm2_solution_Fall2026.pdf) | | |
+Mon, Nov 9 | **[Midterm 2](exams/midterm2/STA35C_Midterm2_Fall2026.pdf) (in class)** | [Solution](exams/midterm2/STA35C_Midterm2_solution_Fall2026.pdf) | |  |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | | | | |
 Mon, Nov 16 | | | | |
