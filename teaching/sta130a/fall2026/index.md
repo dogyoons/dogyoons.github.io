@@ -95,7 +95,7 @@ Fri, Oct 30 | Conditional variance and total variance| [Lecture 16](lectures/STA
 Mon, Nov 2 | Moment generating functions | [Lecture 17](lectures/STA130A_Lecture17_Fall2026.pdf) | BT, Ch 4.4 | |
 Wed, Nov 4 | Markov and Chebyshev inequalities | [Lecture 18](lectures/STA130A_Lecture18_Fall2026.pdf) | BT, Ch 5.1 | |
 Fri, Nov 6 | Review for Midterm 2 | [Lecture 19](lectures/STA130A_Lecture19_Fall2026.pdf) | | |
-Mon, Nov 9 | Midterm 2 (in class)  | | | |
+Mon, Nov 9 | **[Midterm 2](exams/midterm2/STA130A_Midterm2_Fall2026.pdf) (in class)** | [Solution](exams/midterm2/STA130A_Midterm2_solution_Fall2026.pdf) | | |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | | | | |
 Mon, Nov 16 | | | | |
