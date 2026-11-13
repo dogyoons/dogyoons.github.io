@@ -97,7 +97,7 @@ Wed, Nov 4 | Markov and Chebyshev inequalities | [Lecture 18](lectures/STA130A_L
 Fri, Nov 6 | Review for Midterm 2 | [Lecture 19](lectures/STA130A_Lecture19_Fall2026.pdf) | | |
 Mon, Nov 9 | **[Midterm 2](exams/midterm2/STA130A_Midterm2_Fall2026.pdf) (in class)** | [Solution](exams/midterm2/STA130A_Midterm2_solution_Fall2026.pdf) | | |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
-Fri, Nov 13 | The weak law of large numbers | [Lecture 20](lectures/STA130A_Lecture20_Fall2026.pdf) | BT, Ch 5.2 & 5.3 | Homework 6 posted; due Thu, Nov 19 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1730328))
+Fri, Nov 13 | The weak law of large numbers | [Lecture 20](lectures/STA130A_Lecture20_Fall2026.pdf) | BT, Ch 5.2 & 5.3 | [Homework 6](homework/STA130A_Homework6_Fall2026.pdf) posted; due Thu, Nov 19 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1730328))
 Mon, Nov 16 | | | | |
 Wed, Nov 18 | | | | |
 Fri, Nov 20 | | | | |
