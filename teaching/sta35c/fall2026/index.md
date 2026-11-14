@@ -89,7 +89,7 @@ Fri, Nov 6 | Review for Midterm 2 | [Lecture 19](lectures/STA035C_Lecture19_Fall
 Mon, Nov 9 | **[Midterm 2](exams/midterm2/STA35C_Midterm2_Fall2026.pdf) (in class)** | [Solution](exams/midterm2/STA35C_Midterm2_solution_Fall2026.pdf) | |  |
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | Basis functions & Regression splines | [Lecture 20](lectures/STA035C_Lecture20_Fall2026.pdf) | JWHT, Ch 7.1-7.4 | [Homework 6](homework/STA035C_Homework6_Fall2026.pdf) posted; due Thu, Nov 19 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1107851/discussion_topics/1730326))
-Mon, Nov 16 | | | | |
+Mon, Nov 16 | Natural splines + Smoothing splines | [Lecture 21](lectures/STA035C_Lecture21_Fall2026.pdf) | JWHT, Ch 7.4-7.5 | |
 Wed, Nov 18 | | | | |
 Fri, Nov 20 | | | | |
 Mon, Nov 23 | | | | |
