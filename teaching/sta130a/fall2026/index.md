@@ -99,7 +99,7 @@ Mon, Nov 9 | **[Midterm 2](exams/midterm2/STA130A_Midterm2_Fall2026.pdf) (in cla
 Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | The weak law of large numbers | [Lecture 20](lectures/STA130A_Lecture20_Fall2026.pdf) | BT, Ch 5.2 & 5.3 | [Homework 6](homework/STA130A_Homework6_Fall2026.pdf) posted; due Thu, Nov 19 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1091815/discussion_topics/1730328))
 Mon, Nov 16 | The central limit theorem | [Lecture 21](lectures/STA130A_Lecture21_Fall2026.pdf) | BT, Ch 5.4 | | 
-Wed, Nov 18 | From random samples to estimation | [Lecture 22](lectures/STA130A_Lecture22_Fall2026.pdf) | BT, Sec. 5.4; Rice, Sec. 8.3 & opening of Sec. 6.3 | |
+Wed, Nov 18 | From random samples to estimation | [Lecture 22](lectures/STA130A_Lecture22_Fall2026.pdf) | BT, Ch 5.4; Rice, Ch 6.3 & 8.3 | |
 Fri, Nov 20 | | | | |
 Mon, Nov 23 | | | | |
 Wed, Nov 25 | No class (Thanksgiving Holiday) | | | |
