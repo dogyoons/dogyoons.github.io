@@ -91,7 +91,7 @@ Wed, Nov 11 | No class (Veterans Day Holiday) | | | |
 Fri, Nov 13 | Basis functions & Regression splines | [Lecture 20](lectures/STA035C_Lecture20_Fall2026.pdf) | JWHT, Ch 7.1-7.4 | [Homework 6](homework/STA035C_Homework6_Fall2026.pdf) posted; due Thu, Nov 19 | Remote lecture (see [Canvas](https://canvas.ucdavis.edu/courses/1107851/discussion_topics/1730326))
 Mon, Nov 16 | Natural splines + Smoothing splines | [Lecture 21](lectures/STA035C_Lecture21_Fall2026.pdf) | JWHT, Ch 7.4-7.5 | |
 Wed, Nov 18 | Principal component analysis | [Lecture 22](lectures/STA035C_Lecture22_Fall2026.pdf) | JWHT, Ch 6.3.1 & 12.1-12.2 | |
-Fri, Nov 20 | | | | |
+Fri, Nov 20 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Lecture23_Fall2026.pdf) | JWHT, Ch 12.2 | [Homework 7](homework/STA035C_Homework7_Fall2026.pdf) posted; due Thu, Dec 3 |
 Mon, Nov 23 | | | | |
 Wed, Nov 25 | No class (Thanksgiving Holiday) | | | |
 Fri, Nov 27 | No class (Thanksgiving Holiday) | | | |
