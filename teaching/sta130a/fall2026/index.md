@@ -102,7 +102,7 @@ Mon, Nov 16 | The central limit theorem | [Lecture 21](lectures/STA130A_Lecture2
 Wed, Nov 18 | From random samples to estimation | [Lecture 22](lectures/STA130A_Lecture22_Fall2026.pdf) | BT, Ch 5.4; Rice, Ch 6.1, 6.3 & 8.3 | HW 6 due extended to Sun, Nov 22 |
 Fri, Nov 20 | Sampling distributions | [Lecture 23](lectures/STA130A_Lecture23_Fall2026.pdf) | Rice, Ch 6.2 & 6.3 & 8.1 | [Homework 7](homework/STA130A_Homework7_Fall2026.pdf) posted; due Thu, Dec 3 |
 Mon, Nov 23 | Confidence intervals | [Lecture 24](lectures/STA130A_Lecture24_Fall2026.pdf) | Rice, Ch 6 & 8 | |
-Wed, Nov 25 | No class (Thanksgiving Holiday) | | | |
+Wed, Nov 25 | No class (Thanksgiving Holiday) | | | | No office hours
 Fri, Nov 27 | No class (Thanksgiving Holiday) | | | |
 Mon, Nov 30 | | | | |
 Wed, Dec 2 | | | | |

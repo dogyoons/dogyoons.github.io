@@ -93,7 +93,7 @@ Mon, Nov 16 | Natural splines + Smoothing splines | [Lecture 21](lectures/STA035
 Wed, Nov 18 | Principal component analysis | [Lecture 22](lectures/STA035C_Lecture22_Fall2026.pdf) | JWHT, Ch 6.3.1 & 12.1-12.2 | |
 Fri, Nov 20 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA035C_Lecture23_Fall2026.pdf) | JWHT, Ch 12.2 | [Homework 7](homework/STA035C_Homework7_Fall2026.pdf) posted; due Thu, Dec 3 |
 Mon, Nov 23 | Clustering: K-means clustering | [Lecture 24](lectures/STA035C_Lecture24_Fall2026.pdf) | JWHT, Ch 12.4 | |
-Wed, Nov 25 | No class (Thanksgiving Holiday) | | | |
+Wed, Nov 25 | No class (Thanksgiving Holiday) | | | | No office hours
 Fri, Nov 27 | No class (Thanksgiving Holiday) | | | |
 Mon, Nov 30 | | | | |
 Wed, Dec 2 | | | | |
