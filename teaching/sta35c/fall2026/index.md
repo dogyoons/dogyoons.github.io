@@ -95,7 +95,7 @@ Fri, Nov 20 | Principal component analysis (cont'd) | [Lecture 23](lectures/STA0
 Mon, Nov 23 | Clustering: K-means clustering | [Lecture 24](lectures/STA035C_Lecture24_Fall2026.pdf) | JWHT, Ch 12.4 | |
 Wed, Nov 25 | No class (Thanksgiving Holiday) | | | | No office hours
 Fri, Nov 27 | No class (Thanksgiving Holiday) | | | |
-Mon, Nov 30 | | | | |
+Mon, Nov 30 | Clustering: Hierarchical clustering | [Lecture 25](lectures/STA035C_Lecture25_Fall2026.pdf) | JWHT, Ch 12.4 | |
 Wed, Dec 2 | | | | |
 Fri, Dec 4 | | | | |
  | | | | |
