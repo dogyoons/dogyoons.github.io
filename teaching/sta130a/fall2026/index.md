@@ -105,7 +105,7 @@ Mon, Nov 23 | Confidence intervals | [Lecture 24](lectures/STA130A_Lecture24_Fal
 Wed, Nov 25 | No class (Thanksgiving Holiday) | | | | No office hours
 Fri, Nov 27 | No class (Thanksgiving Holiday) | | | |
 Mon, Nov 30 | Point estimation & Method of moments | [Lecture 25](lectures/STA130A_Lecture25_Fall2026.pdf) | Rice, Ch 8.3 & 8.4 | |
-Wed, Dec 2 | | | | |
+Wed, Dec 2 | Maximum likelihood estimation | [Lecture 26](lectures/STA130A_Lecture26_Fall2026.pdf) | Rice, Ch 8.5 | |
 Fri, Dec 4 | | | | |
 Mon, Dec 7 | Final exam (3:30--5:30 PM) | | | |
 
